@@ -1,0 +1,4747 @@
+{
+  "chats": {
+    "6283119680420@s.whatsapp.net": {
+      "id": "6283119680420@s.whatsapp.net",
+      "conversationTimestamp": 1664640834,
+      "unreadCount": 1,
+      "name": "Dellas"
+    },
+    "6281224863098@s.whatsapp.net": {
+      "id": "6281224863098@s.whatsapp.net",
+      "conversationTimestamp": 1664641803,
+      "presences": {
+        "6281224863098@s.whatsapp.net": {
+          "lastKnownPresence": "composing"
+        }
+      },
+      "unreadCount": 36,
+      "notify": "Dellas",
+      "isContact": true
+    },
+    "status@broadcast": {
+      "id": "status@broadcast",
+      "conversationTimestamp": 1664641455,
+      "unreadCount": 4
+    },
+    "212656995081@s.whatsapp.net": {
+      "id": "212656995081@s.whatsapp.net",
+      "notify": "Ⓨⓐⓢⓢⓘⓝⓔ ⓞⓤⓜⓐⓐⓣⓐⓗ",
+      "isContact": true
+    },
+    "6287770560982@s.whatsapp.net": {
+      "id": "6287770560982@s.whatsapp.net",
+      "notify": "JULI",
+      "isContact": true,
+      "presences": {
+        "6287770560982@s.whatsapp.net": {
+          "lastKnownPresence": "composing"
+        }
+      },
+      "conversationTimestamp": 1664641732,
+      "unreadCount": 3
+    },
+    "6283175385188-1589889287@g.us": {
+      "id": "6283175385188-1589889287@g.us",
+      "isContact": true,
+      "presences": {
+        "6283801192534@s.whatsapp.net": {
+          "lastKnownPresence": "composing"
+        }
+      },
+      "conversationTimestamp": 1664641409,
+      "unreadCount": 6,
+      "subject": "Gabut People",
+      "lastfetch": 1664641344085,
+      "metadata": {
+        "id": "6283175385188-1589889287@g.us",
+        "subject": "Gabut People",
+        "subjectOwner": "6281224863098@s.whatsapp.net",
+        "subjectTime": 1645530701,
+        "size": 35,
+        "creation": 1589889287,
+        "desc": {
+          "type": "Buffer",
+          "data": [
+            42,
+            226,
+            149,
+            148,
+            226,
+            149,
+            144,
+            226,
+            149,
+            144,
+            226,
+            149,
+            144,
+            226,
+            157,
+            150,
+            226,
+            128,
+            162,
+            224,
+            179,
+            139,
+            194,
+            176,
+            240,
+            157,
+            154,
+            129,
+            240,
+            157,
+            154,
+            132,
+            240,
+            157,
+            153,
+            187,
+            240,
+            157,
+            153,
+            180,
+            240,
+            157,
+            154,
+            130,
+            194,
+            176,
+            224,
+            179,
+            139,
+            226,
+            128,
+            162,
+            226,
+            157,
+            150,
+            226,
+            149,
+            144,
+            226,
+            149,
+            144,
+            226,
+            149,
+            144,
+            226,
+            149,
+            151,
+            42,
+            10,
+            32,
+            32,
+            32,
+            32,
+            32,
+            32,
+            32,
+            32,
+            32,
+            32,
+            32,
+            32,
+            32,
+            32,
+            32,
+            32,
+            32,
+            240,
+            150,
+            164,
+            141,
+            32,
+            73,
+            78,
+            84,
+            82,
+            79,
+            32,
+            87,
+            65,
+            74,
+            73,
+            66,
+            33,
+            32,
+            240,
+            150,
+            164,
+            141,
+            10,
+            32,
+            32,
+            32,
+            32,
+            240,
+            150,
+            163,
+            144,
+            32,
+            78,
+            111,
+            32,
+            49,
+            56,
+            43,
+            227,
+            128,
+            144,
+            226,
+            156,
+            152,
+            227,
+            128,
+            145,
+            10,
+            32,
+            32,
+            32,
+            32,
+            240,
+            150,
+            163,
+            144,
+            32,
+            74,
+            97,
+            110,
+            103,
+            97,
+            110,
+            32,
+            99,
+            117,
+            109,
+            97,
+            110,
+            32,
+            110,
+            121,
+            105,
+            109,
+            97,
+            107,
+            227,
+            128,
+            144,
+            226,
+            156,
+            152,
+            227,
+            128,
+            145,
+            10,
+            32,
+            32,
+            32,
+            32,
+            240,
+            150,
+            163,
+            144,
+            32,
+            74,
+            97,
+            110,
+            103,
+            97,
+            110,
+            32,
+            107,
+            105,
+            114,
+            105,
+            109,
+            32,
+            108,
+            105,
+            110,
+            107,
+            32,
+            103,
+            114,
+            111,
+            117,
+            112,
+            32,
+            108,
+            97,
+            105,
+            110,
+            227,
+            128,
+            144,
+            226,
+            156,
+            152,
+            227,
+            128,
+            145,
+            10,
+            32,
+            32,
+            32,
+            32,
+            240,
+            150,
+            163,
+            144,
+            32,
+            74,
+            97,
+            110,
+            103,
+            97,
+            110,
+            32,
+            98,
+            97,
+            112,
+            101,
+            114,
+            97,
+            110,
+            227,
+            128,
+            144,
+            226,
+            156,
+            152,
+            227,
+            128,
+            145,
+            10,
+            32,
+            32,
+            32,
+            32,
+            240,
+            150,
+            163,
+            144,
+            32,
+            77,
+            97,
+            117,
+            32,
+            99,
+            117,
+            114,
+            104,
+            97,
+            116,
+            63,
+            32,
+            83,
+            105,
+            108,
+            97,
+            107,
+            97,
+            110,
+            227,
+            128,
+            144,
+            226,
+            156,
+            148,
+            227,
+            128,
+            145,
+            10,
+            32,
+            32,
+            32,
+            32,
+            240,
+            150,
+            163,
+            144,
+            32,
+            85,
+            99,
+            97,
+            112,
+            107,
+            97,
+            110,
+            32,
+            115,
+            97,
+            108,
+            97,
+            109,
+            32,
+            97,
+            116,
+            97,
+            117,
+            32,
+            72,
+            97,
+            105,
+            227,
+            128,
+            144,
+            226,
+            156,
+            148,
+            227,
+            128,
+            145,
+            32,
+            10,
+            32,
+            32,
+            32,
+            32,
+            240,
+            150,
+            163,
+            144,
+            32,
+            83,
+            97,
+            108,
+            105,
+            110,
+            103,
+            32,
+            109,
+            101,
+            110,
+            103,
+            104,
+            97,
+            114,
+            103,
+            97,
+            105,
+            227,
+            128,
+            144,
+            226,
+            156,
+            148,
+            227,
+            128,
+            145,
+            10,
+            32,
+            32,
+            32,
+            32,
+            240,
+            150,
+            163,
+            144,
+            32,
+            74,
+            97,
+            110,
+            103,
+            97,
+            110,
+            32,
+            110,
+            103,
+            101,
+            109,
+            105,
+            115,
+            32,
+            106,
+            97,
+            100,
+            105,
+            32,
+            97,
+            100,
+            109,
+            105,
+            110,
+            227,
+            128,
+            144,
+            226,
+            156,
+            152,
+            227,
+            128,
+            145,
+            10,
+            42,
+            226,
+            149,
+            154,
+            226,
+            149,
+            144,
+            226,
+            149,
+            144,
+            226,
+            149,
+            144,
+            226,
+            157,
+            150,
+            226,
+            128,
+            162,
+            224,
+            179,
+            139,
+            194,
+            176,
+            32,
+            240,
+            157,
+            154,
+            129,
+            240,
+            157,
+            153,
+            180,
+            240,
+            157,
+            153,
+            176,
+            240,
+            157,
+            153,
+            179,
+            32,
+            194,
+            176,
+            224,
+            179,
+            139,
+            226,
+            128,
+            162,
+            226,
+            157,
+            150,
+            226,
+            149,
+            144,
+            226,
+            149,
+            144,
+            226,
+            149,
+            144,
+            226,
+            149,
+            157,
+            42,
+            10,
+            42,
+            226,
+            149,
+            148,
+            226,
+            149,
+            144,
+            226,
+            149,
+            144,
+            226,
+            149,
+            144,
+            226,
+            157,
+            150,
+            226,
+            128,
+            162,
+            224,
+            179,
+            139,
+            194,
+            176,
+            240,
+            157,
+            153,
+            176,
+            240,
+            157,
+            153,
+            179,
+            240,
+            157,
+            153,
+            188,
+            240,
+            157,
+            153,
+            184,
+            240,
+            157,
+            153,
+            189,
+            194,
+            176,
+            224,
+            179,
+            139,
+            226,
+            128,
+            162,
+            226,
+            157,
+            150,
+            226,
+            149,
+            144,
+            226,
+            149,
+            144,
+            226,
+            149,
+            144,
+            226,
+            149,
+            151,
+            42,
+            10,
+            32,
+            32,
+            32,
+            32,
+            32,
+            49,
+            46,
+            32,
+            68,
+            101,
+            108,
+            108,
+            97,
+            115,
+            10,
+            32,
+            32,
+            32,
+            32,
+            32,
+            50,
+            46,
+            32,
+            69,
+            108,
+            115,
+            97,
+            10,
+            32,
+            32,
+            32,
+            32,
+            32,
+            51,
+            46,
+            32,
+            89,
+            101,
+            115,
+            115,
+            104,
+            121,
+            97,
+            10,
+            42,
+            226,
+            149,
+            154,
+            226,
+            149,
+            144,
+            226,
+            149,
+            144,
+            226,
+            149,
+            144,
+            226,
+            157,
+            150,
+            226,
+            128,
+            162,
+            224,
+            179,
+            139,
+            194,
+            176,
+            32,
+            32,
+            32,
+            240,
+            147,
+            133,
+            130,
+            32,
+            32,
+            32,
+            194,
+            176,
+            224,
+            179,
+            139,
+            226,
+            128,
+            162,
+            226,
+            157,
+            150,
+            226,
+            149,
+            144,
+            226,
+            149,
+            144,
+            226,
+            149,
+            144,
+            226,
+            149,
+            157,
+            42,
+            10,
+            42,
+            76,
+            105,
+            110,
+            107,
+            115,
+            42,
+            32,
+            10,
+            45,
+            32,
+            84,
+            101,
+            108,
+            101,
+            103,
+            114,
+            97,
+            109,
+            32,
+            71,
+            114,
+            111,
+            117,
+            112,
+            32,
+            104,
+            116,
+            116,
+            112,
+            115,
+            58,
+            47,
+            47,
+            116,
+            46,
+            109,
+            101,
+            47,
+            106,
+            111,
+            105,
+            110,
+            99,
+            104,
+            97,
+            116,
+            47,
+            82,
+            119,
+            69,
+            67,
+            53,
+            102,
+            104,
+            95,
+            98,
+            71,
+            102,
+            109,
+            122,
+            77,
+            52,
+            98
+          ]
+        },
+        "descId": "CCD27455B9D7C70AAA7EC001B17F704D",
+        "restrict": true,
+        "announce": false,
+        "participants": [
+          {
+            "id": "628873693441@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6283834620158@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6283114698407@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6282266902092@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "62895619772648@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6281335219834@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6283803823406@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6281213810419@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6283119680420@s.whatsapp.net",
+            "admin": "admin"
+          },
+          {
+            "id": "6281215113248@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6281224863098@s.whatsapp.net",
+            "admin": "admin"
+          },
+          {
+            "id": "6285163074607@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6285780478199@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6283801192534@s.whatsapp.net",
+            "admin": "admin"
+          },
+          {
+            "id": "6285320055752@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6282173731287@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6288973621623@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6285591474053@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6289510839959@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6281354515216@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6283879600923@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "62895401945742@s.whatsapp.net",
+            "admin": "admin"
+          },
+          {
+            "id": "62895345622468@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6288221789219@s.whatsapp.net",
+            "admin": "admin"
+          },
+          {
+            "id": "6281615957665@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6281336209889@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6289691436798@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6288238749202@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6285730661084@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6281325264947@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6281351492331@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6289635654606@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6281575022055@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6289531090111@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6285641495084@s.whatsapp.net",
+            "admin": null
+          }
+        ]
+      }
+    },
+    "6283801192534@s.whatsapp.net": {
+      "id": "6283801192534@s.whatsapp.net",
+      "notify": "Elsa",
+      "isContact": true
+    },
+    "6281354815469@s.whatsapp.net": {
+      "id": "6281354815469@s.whatsapp.net",
+      "notify": "personality",
+      "isContact": true
+    },
+    "212644083642@s.whatsapp.net": {
+      "id": "212644083642@s.whatsapp.net",
+      "notify": "🇲🇦👌.       🇪🇸❤️🤲",
+      "isContact": true
+    }
+  },
+  "messages": {
+    "6283119680420@s.whatsapp.net": [
+      {
+        "key": {
+          "remoteJid": "6283119680420@s.whatsapp.net",
+          "fromMe": true,
+          "id": "B7BF07D12324B60655A9EEC310AA294B"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "APP_STATE_SYNC_KEY_SHARE",
+            "appStateSyncKeyShare": {
+              "keys": [
+                {
+                  "keyId": {
+                    "keyId": "AAAAALSw"
+                  },
+                  "keyData": {
+                    "keyData": "ZlOOFScf7NXLsYdQKcEAy0OwrCN+oT7FBh1c/fdVlNY=",
+                    "fingerprint": {
+                      "rawId": 1609284900,
+                      "currentIndex": 1,
+                      "deviceIndexes": [
+                        0,
+                        1
+                      ]
+                    },
+                    "timestamp": "1664577102064"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "messageTimestamp": "1664640834",
+        "status": "SERVER_ACK",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6283119680420@s.whatsapp.net",
+          "fromMe": true,
+          "id": "13467FA87CE6B3336B58C30A35C57548"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "INITIAL_SECURITY_NOTIFICATION_SETTING_SYNC",
+            "initialSecurityNotificationSettingSync": {
+              "securityNotificationEnabled": false
+            }
+          }
+        },
+        "messageTimestamp": "1664640834",
+        "status": "SERVER_ACK",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6283119680420@s.whatsapp.net",
+          "fromMe": true,
+          "id": "F47EC89612344F9F8F50149681D5D9B0"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "vOU/yDvrywPDCqqFvJj8gKIrhUk5VqYZb8MUrSu2Za4=",
+              "fileLength": "26413",
+              "mediaKey": "VhJysfBXJ8K9ufLm5neZw7Kmx4yX/aLnC2qY5gN61RU=",
+              "fileEncSha256": "ePcTEOOoEx36blBjM3uQEnAWxAYNVz+xxDC29EHq1zA=",
+              "directPath": "/v/t62.31111-24/31313956_449271727181864_2496402131939828623_n.enc?ccb=11-4&oh=01_AVwqmm_jVk8Oj4K4aTTBEs4_FAWUJBD-dx9_0rTyV6PsTg&oe=635EB7FF",
+              "syncType": "INITIAL_STATUS_V3"
+            }
+          }
+        },
+        "messageTimestamp": "1664640835",
+        "status": "SERVER_ACK",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6283119680420@s.whatsapp.net",
+          "fromMe": true,
+          "id": "26A430C2D8639004919B45CABF4F5FB3"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "aHf4ds5eZatNi1DZ7mEUcXVGIPA3ghJ8dw0+a1MFsDY=",
+              "fileLength": "3522",
+              "mediaKey": "Y/XELv4dqGGyxv/Pt8hLWhLmFFuTttcbtsJAgRLRxAo=",
+              "fileEncSha256": "p37Q0+Dqxxh2U2uBRWxHVp6Sw/LJGO8+Hj/qnBQU9dQ=",
+              "directPath": "/v/t62.31111-24/30221232_646011683770749_4645742637515381548_n.enc?ccb=11-4&oh=01_AVzDXn5YwPsoRIhpc8kjlCIZBXUF5ldu_F7cxr6UY0pTOw&oe=635DE27B",
+              "syncType": "PUSH_NAME",
+              "chunkOrder": 1
+            }
+          }
+        },
+        "messageTimestamp": "1664640835",
+        "status": "SERVER_ACK",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6283119680420@s.whatsapp.net",
+          "fromMe": true,
+          "id": "0CF91F6DF18BF1AA404EAAEBA26EB249"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "Xn+PHnBWz4gWhkcpYxzxefeZhgaB1hfJxg1jvK01tSs=",
+              "fileLength": "406",
+              "mediaKey": "nsNXFcs1IDNRpBBGMQWr7lS+vA4soPMXXsAIrRjUHuY=",
+              "fileEncSha256": "1WlSkwRl0qgaNldIyMlzolvRwRjwYC1A9f+9iFl9c+E=",
+              "directPath": "/v/t62.31111-24/40799080_630712178797609_6623868271043234836_n.enc?ccb=11-4&oh=01_AVyspSLKfjqf9zs55-5t6Q9oor8znfBe7v-Ky-LWh91XPA&oe=635E5730",
+              "syncType": "NON_BLOCKING_DATA"
+            }
+          }
+        },
+        "messageTimestamp": "1664640835",
+        "status": "SERVER_ACK",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6283119680420@s.whatsapp.net",
+          "fromMe": true,
+          "id": "1C68F6FB3FA846F2D165A1DF65294F20"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "Ij2PgRf8IjxfJRDO1yp6wNQbQgX+Zx6rcZSrnuT4+ms=",
+              "fileLength": "53998",
+              "mediaKey": "BMQVi+MbonY2ry93Q6BrqPNPSRJ1aoDr0/ZOAwjDl38=",
+              "fileEncSha256": "VSwdWLtAKHrYDOJUtW6IctV66wl1lN/UXJUKxb4YNKo=",
+              "directPath": "/v/t62.31111-24/18955585_131085366357585_1163263206756813928_n.enc?ccb=11-4&oh=01_AVyrMRg5Y4pp4MumdCNjFhDKryytezo0QK3Kw4cKfiiwBw&oe=635DB9CD",
+              "syncType": "INITIAL_BOOTSTRAP"
+            }
+          }
+        },
+        "messageTimestamp": "1664640835",
+        "status": "SERVER_ACK",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6283119680420@s.whatsapp.net",
+          "fromMe": true,
+          "id": "01008607DE51EB417B363F310A418ECF"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "kXr9dzy7hmfzoc99CZB+uyjGtmgfPGvx/tzpUlAgTK8=",
+              "fileLength": "609532",
+              "mediaKey": "M1POYTrTnm8JVjaxWtSEhgy9kk9M5GW76kWmJMS/Zhk=",
+              "fileEncSha256": "Dzi9CvlxFByuDXbAODN5f/QtjQMh3nLI1XuB5OVW2s0=",
+              "directPath": "/v/t62.31111-24/40838111_136185232244140_221767891397564143_n.enc?ccb=11-4&oh=01_AVy14XF12lq3Ll-owwGat95jUkVzXin5UU6Z6gROeh_BtQ&oe=635D2987",
+              "syncType": "RECENT",
+              "chunkOrder": 1,
+              "progress": 19
+            }
+          }
+        },
+        "messageTimestamp": "1664640846",
+        "status": "SERVER_ACK",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6283119680420@s.whatsapp.net",
+          "fromMe": true,
+          "id": "167C986B7E608C4600ABA1BA642F639E"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "FBFb3F1FQYqlsVZMCYDm73WRgVJGrcFC0lh1deVHVwg=",
+              "fileLength": "464827",
+              "mediaKey": "ptx9rONt4RYO2hLqeTodCG9fhNSkxJbz3zokcQPn13U=",
+              "fileEncSha256": "xLLcsAL7+R8cTV3L6yKrxEMeOh6ZGJG/QX457EXBTmM=",
+              "directPath": "/v/t62.31111-24/32040606_6092344374128546_7313134965058130975_n.enc?ccb=11-4&oh=01_AVwOmk8ucDNrtMMeWsvEbASkKa4ttTZ-2vfFRfHRcXs1sg&oe=635E7D8A",
+              "syncType": "RECENT",
+              "chunkOrder": 2,
+              "progress": 39
+            }
+          }
+        },
+        "messageTimestamp": "1664640853",
+        "status": "SERVER_ACK",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6283119680420@s.whatsapp.net",
+          "fromMe": true,
+          "id": "FD839AAA6EA4E099668010007D267176"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "yBZy5W6Cb7Yv8XFJ9qn5bEbJSNFrcFl8T5vuHVFLt0U=",
+              "fileLength": "454368",
+              "mediaKey": "9Wyn4L0RcDwv7oOYaBw3iZrufQ1HPfylBZQLmaH3IKQ=",
+              "fileEncSha256": "5mNfcYa751elljDl51X56xL0KlwTH3YX4SIopeXLEvA=",
+              "directPath": "/v/t62.31111-24/30660806_669999180885932_6574535839898369749_n.enc?ccb=11-4&oh=01_AVzuPXMhDNIy5pK4ZO_6qpuTi2E8Rb11j7Ml4acRWxfM0w&oe=635F02D6",
+              "syncType": "RECENT",
+              "chunkOrder": 3,
+              "progress": 58
+            }
+          }
+        },
+        "messageTimestamp": "1664640861",
+        "status": "SERVER_ACK",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6283119680420@s.whatsapp.net",
+          "fromMe": true,
+          "id": "89B7FF875489832D3946ADC693156528"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "hJTngOcIb1rUssVe9Zu2HUsSSNo0u1OC9fUUZx37OXU=",
+              "fileLength": "481945",
+              "mediaKey": "m0uNcfMk/W2hXtd5ZJu6TcIpDN6K981nrZ2QDLQVwaA=",
+              "fileEncSha256": "tJGLHGKb0MZ7LQe/wWVcD/W90jmkCjxBDtZ9L/ZxxG4=",
+              "directPath": "/v/t62.31111-24/31795172_395381632792205_5205009482989379263_n.enc?ccb=11-4&oh=01_AVyHeGmXCbbvv6Cju_xE1OI6hTeGaWuPx7OEObEl3-F3EA&oe=635CD147",
+              "syncType": "RECENT",
+              "chunkOrder": 4,
+              "progress": 78
+            }
+          }
+        },
+        "messageTimestamp": "1664640868",
+        "status": "SERVER_ACK",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6283119680420@s.whatsapp.net",
+          "fromMe": true,
+          "id": "08796120B5BBB73F3ACE4B73AEDCE097"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "CBg7SZtig7TaYLG3NE0KC9NlZujKEWLkGO8km3VYgWI=",
+              "fileLength": "463013",
+              "mediaKey": "qNGj2uDPOUhexEnXVKxMnvkn2Z/nAdyJ44ykyk4sn9o=",
+              "fileEncSha256": "kluj8WZEPxDtIIbnA0k5PuxeDdBTPgR0Wcy0Hj8AgeM=",
+              "directPath": "/v/t62.31111-24/31981994_1312884609249500_3882902484544349674_n.enc?ccb=11-4&oh=01_AVy1bjOkf1RAFH1mncY5iZ3ksGhp-q_o3QbU0c8U_GEBZg&oe=635C0F90",
+              "syncType": "RECENT",
+              "chunkOrder": 5,
+              "progress": 97
+            }
+          }
+        },
+        "messageTimestamp": "1664640875",
+        "status": "SERVER_ACK",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6283119680420@s.whatsapp.net",
+          "fromMe": true,
+          "id": "4FD2ED215EED8818CA111A14F357D168"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "TMc29mPtN5A8uaw50UbnVJzbKGdOHSIodOWq7Zbdv9g=",
+              "fileLength": "14",
+              "mediaKey": "G77lDp8KQn4AoldSklBtxdpTv14Lnaxx4R0CnP7TPl4=",
+              "fileEncSha256": "Ce0kI0rmjbU3YZmPp9U2IQThlpZnwBMg8Zjr4HRU1zw=",
+              "directPath": "/v/t62.31111-24/24247802_1514822992385374_7328691182980825839_n.enc?ccb=11-4&oh=01_AVzLptP7vLqcWb-xfyyRbQVhx-XqI3hFVzbxGWlOfjliyQ&oe=635F636F",
+              "syncType": "RECENT",
+              "chunkOrder": 7,
+              "progress": 100
+            }
+          }
+        },
+        "messageTimestamp": "1664640876",
+        "status": "SERVER_ACK",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6283119680420@s.whatsapp.net",
+          "fromMe": true,
+          "id": "EA416F88A0B09995CF908F23D4446FDE"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "Iqh3jUUMv2DiQ5UfUE2q/VOfrvGUdo9Es7kCaqamb30=",
+              "fileLength": "38073",
+              "mediaKey": "d3xYYErrUz1zdk7dpzdjWT0lm5tRO8mK6mb8UdDj7HM=",
+              "fileEncSha256": "jdMDbnC9QjbYtraejckIAiyi/Vsfa9Z5gm9GbhhuccY=",
+              "directPath": "/v/t62.31111-24/40171921_139506938813320_6286255252101321798_n.enc?ccb=11-4&oh=01_AVy0beIxHMUzcs7-Mlh8vILewTkX7VUccvSyL8SRRJYX2A&oe=635DB2FB",
+              "syncType": "RECENT",
+              "chunkOrder": 6,
+              "progress": 100
+            }
+          }
+        },
+        "messageTimestamp": "1664640876",
+        "status": "SERVER_ACK",
+        "pushName": "Dellas"
+      }
+    ],
+    "6281224863098@s.whatsapp.net": [
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE580F3E897082E"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Successfully connected"
+          }
+        },
+        "messageTimestamp": "1664640834",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "76B6EBCCBB50B1725ED8E0BCF60ABD49"
+        },
+        "message": {
+          "conversation": ".menu"
+        },
+        "messageTimestamp": "1664640854",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5DF09C92905A7",
+          "participant": "6283119680420@s.whatsapp.net"
+        },
+        "message": {
+          "viewOnceMessage": {
+            "message": {
+              "messageContextInfo": {
+                "deviceListMetadata": {},
+                "deviceListMetadataVersion": 2
+              },
+              "listMessage": {
+                "title": "```Selamat malam Dellas```\n*Sabtu - 1 Oktober 2022*\n",
+                "description": "Sekarang Jam 16.14.14",
+                "buttonText": "Click",
+                "listType": "SINGLE_SELECT",
+                "sections": [
+                  {
+                    "title": "List Featured",
+                    "rows": [
+                      {
+                        "title": "All",
+                        "rowId": ".? all"
+                      },
+                      {
+                        "title": "Games",
+                        "rowId": ".? game"
+                      },
+                      {
+                        "title": "RPG Games",
+                        "rowId": ".? rpg"
+                      },
+                      {
+                        "title": "Exp & Limit",
+                        "rowId": ".? xp"
+                      },
+                      {
+                        "title": "Stickers",
+                        "rowId": ".? sticker"
+                      },
+                      {
+                        "title": "Kerang Ajaib",
+                        "rowId": ".? kerang"
+                      },
+                      {
+                        "title": "Primbon Jawa",
+                        "rowId": ".? primbon"
+                      },
+                      {
+                        "title": "Text Maker",
+                        "rowId": ".? textmaker"
+                      },
+                      {
+                        "title": "Image Maker",
+                        "rowId": ".? imagemaker"
+                      },
+                      {
+                        "title": "Groups",
+                        "rowId": ".? group"
+                      },
+                      {
+                        "title": "Premium",
+                        "rowId": ".? premium"
+                      },
+                      {
+                        "title": "Internet",
+                        "rowId": ".? internet"
+                      },
+                      {
+                        "title": "Anonymous Chat",
+                        "rowId": ".? anonymous"
+                      },
+                      {
+                        "title": "Downloader",
+                        "rowId": ".? downloader"
+                      },
+                      {
+                        "title": "Tools",
+                        "rowId": ".? tools"
+                      },
+                      {
+                        "title": "Wattpadz",
+                        "rowId": ".? wattpadz"
+                      },
+                      {
+                        "title": "Anime",
+                        "rowId": ".? anime"
+                      },
+                      {
+                        "title": "Audio",
+                        "rowId": ".? audio"
+                      },
+                      {
+                        "title": "Database",
+                        "rowId": ".? database"
+                      },
+                      {
+                        "title": "Owner",
+                        "rowId": ".? owner"
+                      },
+                      {
+                        "title": "Jadian",
+                        "rowId": ".? jadian"
+                      },
+                      {
+                        "title": "Tanpa Kategori",
+                        "rowId": ".? noktg"
+                      }
+                    ]
+                  }
+                ],
+                "footerText": "Della."
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1664640854",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "BAE52FD7B6610ECB"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "```╭═══ LEVANTER ═══⊷\n┃❃╭──────────────\n┃❃│ Prefix : .\n┃❃│ User : Dellas\n┃❃│ Time : 9:44:14 PM\n┃❃│ Day : Saturday\n┃❃│ Date : 1/10/2022\n┃❃│ Version : 3.7.5\n┃❃│ Plugins : 184\n┃❃│ Ram : 34702/63631MB\n┃❃│ Uptime : 2h 13m 37s\n┃❃╰───────────────\n╰═════════════════⊷\n``` ╭─❏ ᴍɪsᴄ ❏\n │ 𝙰𝙵𝙺\n │ 𝙰𝙻𝙸𝚅𝙴\n │ 𝚂𝙴𝚃𝙲𝙼𝙳\n │ 𝙶𝙴𝚃𝙲𝙼𝙳\n │ 𝙳𝙴𝙻𝙲𝙼𝙳\n │ 𝙵𝙰𝙽𝙲𝚈\n │ 𝙵𝙾𝚁𝚆𝙰𝚁𝙳\n │ 𝚂𝙰𝚅𝙴\n │ 𝙻𝚈𝙳𝙸𝙰\n │ 𝙰𝚅𝙼\n │ 𝙼𝙴𝙽𝚃𝙸𝙾𝙽\n │ 𝙽𝙴𝚆𝚂\n │ 𝙿𝙸𝙽𝙶\n │ 𝙿𝙻𝚄𝙶𝙸𝙽\n │ 𝚁𝙴𝙼𝙾𝚅𝙴\n │ 𝚁𝙴𝙱𝙾𝙾𝚃\n │ 𝚆𝙷𝙾𝙸𝚂\n │ 𝚀𝚁\n │ 𝚁𝙴𝙰𝙲𝚃\n │ 𝚁𝙼𝙱𝙶\n │ 𝚃𝚃𝚂\n │ 𝚄𝚁𝙻\n │ 𝙼𝙵𝙾𝚁𝚆𝙰𝚁𝙳\n │ 𝚆𝙰\n │ 𝙵𝙸𝙽𝙳\n │ 𝚃𝙶\n ╰─────────────────\n ╭─❏ ɢʀᴏᴜᴘ ❏\n │ 𝙰𝙽𝚃𝙸𝙻𝙸𝙽𝙺\n │ 𝙰𝙽𝚃𝙸𝙵𝙰𝙺𝙴\n │ 𝙰𝙽𝚃𝙸𝚆𝙾𝚁𝙳\n │ 𝚂𝚃𝙾𝙿\n │ 𝙵𝙸𝙻𝚃𝙴𝚁\n │ 𝙶𝙿𝙿\n │ 𝚆𝙴𝙻𝙲𝙾𝙼𝙴\n │ 𝙶𝙾𝙾𝙳𝙱𝚈𝙴\n │ 𝙺𝙸𝙲𝙺\n │ 𝙰𝙳𝙳\n │ 𝙿𝚁𝙾𝙼𝙾𝚃𝙴\n │ 𝙳𝙴𝙼𝙾𝚃𝙴\n │ 𝙸𝙽𝚅𝙸𝚃𝙴\n │ 𝙼𝚄𝚃𝙴\n │ 𝚄𝙽𝙼𝚄𝚃𝙴\n │ 𝙹𝙾𝙸𝙽\n │ 𝚁𝙴𝚅𝙾𝙺𝙴\n │ 𝙶𝙸𝙽𝙵𝙾\n │ 𝙲𝙾𝙼𝙼𝙾𝙽\n │ 𝙼𝚂𝙶𝚂\n │ 𝚁𝙴𝚂𝙴𝚃\n │ 𝙸𝙽𝙰𝙲𝚃𝙸𝚅𝙴\n │ 𝙰𝙼𝚄𝚃𝙴\n │ 𝙰𝚄𝙽𝙼𝚄𝚃𝙴\n │ 𝙿𝙳𝙼\n │ 𝙰𝙽𝚃𝙸𝚂𝙿𝙰𝙼\n │ 𝚃𝙰𝙶\n │ 𝚅𝙾𝚃𝙴\n │ 𝚆𝙰𝚁𝙽\n ╰─────────────────\n ╭─❏ ᴅᴏᴡɴʟᴏᴀᴅ ❏\n │ 𝙰𝙿𝙺\n │ 𝙵𝙱\n │ 𝙸𝙽𝚂𝚃𝙰\n │ 𝙼𝙴𝙳𝙸𝙰𝙵𝙸𝚁𝙴\n │ 𝙿𝙸𝙽𝚃𝙴𝚁𝙴𝚂𝚃\n │ 𝚂𝚂\n │ 𝙵𝚄𝙻𝙻𝚂𝚂\n │ 𝚂𝚃𝙾𝚁𝚈\n │ 𝚃𝙸𝙺𝚃𝙾𝙺\n │ 𝚃𝚆𝙸𝚃𝚃𝙴𝚁\n │ 𝚄𝙿𝙻𝙾𝙰𝙳\n │ 𝚈𝚃𝚅\n │ 𝚈𝚃𝙰\n │ 𝚂𝙾𝙽𝙶\n │ 𝚅𝙸𝙳𝙴𝙾\n │ 𝙿𝙻𝙰𝚈\n │ 𝚈𝚃𝙻\n ╰─────────────────\n ╭─❏ ᴡʜᴀᴛsᴀᴘᴘ ❏\n │ 𝙱𝚄𝚃𝚃𝙾𝙽\n │ 𝙲𝙻𝙴𝙰𝚁\n │ 𝙳𝙻𝚃\n │ 𝙲𝙰𝙿𝚃𝙸𝙾𝙽\n │ 𝚅𝚅\n │ 𝙳𝙾𝙲\n ╰─────────────────\n ╭─❏ ᴇᴅɪᴛᴏʀ ❏\n │ 𝚂𝙺𝚄𝙻𝙻\n │ 𝚂𝙺𝙴𝚃𝙲𝙷\n │ 𝙿𝙴𝙽𝙲𝙸𝙻\n │ 𝙲𝙾𝙻𝙾𝚁\n │ 𝙺𝙸𝚂𝚂\n │ 𝙱𝙾𝙺𝙴𝙷\n │ 𝚆𝙰𝙽𝚃𝙴𝙳\n │ 𝙻𝙾𝙾𝙺\n │ 𝙶𝙰𝙽𝙳𝙼\n │ 𝙳𝙰𝚁𝙺\n │ 𝙼𝙰𝙺𝙴𝚄𝙿\n │ 𝙲𝙰𝚁𝚃𝙾𝙾𝙽\n │ 𝙳𝙴𝙼𝙾𝙽\n │ 𝙱𝙻𝙾𝙾𝙳𝚈\n │ 𝚉𝙾𝙼𝙱𝙸𝙴\n │ 𝙷𝙾𝚁𝙽𝙴𝙳\n ╰─────────────────\n ╭─❏ sᴇᴀʀᴄʜ ❏\n │ 𝙶𝙾𝙾𝙶𝙻𝙴\n │ 𝙸𝙼𝙶\n │ 𝙼𝙾𝚅𝙸𝙴\n │ 𝚃𝚁𝚃\n │ 𝚆𝙴𝙰𝚃𝙷𝙴𝚁\n │ 𝚈𝚃𝚂\n │ 𝙹𝙴𝙰𝙽\n │ 𝙻𝚈𝚁𝙸𝙲𝚂\n │ 𝚃𝙸𝙼𝙴\n │ 𝙸𝙶\n │ 𝙴𝙼𝙸𝚇\n │ 𝙴𝙼𝙾𝙹𝙸\n ╰─────────────────\n ╭─❏ ʜᴇʀᴏᴋᴜ ❏\n │ 𝚁𝙴𝚂𝚃𝙰𝚁𝚃\n │ 𝚂𝙷𝚄𝚃𝙳𝙾𝚆𝙽\n │ 𝙳𝚈𝙽𝙾\n │ 𝚂𝙴𝚃𝚅𝙰𝚁\n │ 𝙳𝙴𝙻𝚅𝙰𝚁\n │ 𝙶𝙴𝚃𝚅𝙰𝚁\n │ 𝙰𝙻𝙻𝚅𝙰𝚁\n │ 𝚄𝙿𝙳𝙰𝚃𝙴\n │ 𝚄𝙿𝙳𝙰𝚃𝙴 𝙽𝙾𝚆\n │ 𝚂𝙴𝚃𝚂𝚄𝙳𝙾\n │ 𝙳𝙴𝙻𝚂𝚄𝙳𝙾\n │ 𝙶𝙴𝚃𝚂𝚄𝙳𝙾\n ╰─────────────────\n ╭─❏ ᴠɪᴅᴇᴏ ❏\n │ 𝚁𝙾𝚃𝙰𝚃𝙴\n │ 𝙼𝙿𝟹\n │ 𝚁𝙴𝚅𝙴𝚁𝚂𝙴\n │ 𝚃𝚁𝙸𝙼\n │ 𝙼𝙴𝚁𝙶𝙴\n │ 𝙲𝙾𝙼𝙿𝚁𝙴𝚂𝚂\n │ 𝙲𝚁𝙾𝙿\n ╰─────────────────\n ╭─❏ sᴛɪᴄᴋᴇʀ ❏\n │ 𝙿𝙷𝙾𝚃𝙾\n │ 𝚂𝚃𝙸𝙲𝙺𝙴𝚁\n │ 𝙲𝙸𝚁𝙲𝙻𝙴\n │ 𝚃𝙰𝙺𝙴\n │ 𝙼𝙿𝟺\n ╰─────────────────\n ╭─❏ ᴀᴜᴅɪᴏ ❏\n │ 𝙲𝚄𝚃\n │ 𝙱𝙰𝚂𝚂\n │ 𝚃𝚁𝙴𝙱𝙻𝙴\n │ 𝙷𝙸𝚂𝚃𝙾\n │ 𝚅𝙴𝙲𝚃𝙾𝚁\n │ 𝙻𝙾𝚆\n │ 𝙿𝙸𝚃𝙲𝙷\n │ 𝙰𝚅𝙴𝙲\n │ 𝙱𝙻𝙰𝙲𝙺\n │ 𝙱𝙻𝙾𝚆𝙽\n │ 𝙳𝙴𝙴𝙿\n │ 𝙴𝙰𝚁𝚁𝙰𝙿𝙴\n │ 𝙵𝙰𝚂𝚃\n │ 𝙵𝙰𝚃\n │ 𝙽𝙸𝙶𝙷𝚃𝙲𝙾𝚁𝙴\n │ 𝚁𝙾𝙱𝙾𝚃\n │ 𝚂𝙻𝙾𝚆\n │ 𝚂𝙼𝙾𝙾𝚃𝙷\n │ 𝚃𝚄𝙿𝙰𝙸\n ╰─────────────────\n ╭─❏ ᴅᴏᴄᴜᴍᴇɴᴛ ❏\n │ 𝙿𝙰𝙶𝙴\n │ 𝙿𝙳𝙵\n ╰─────────────────\n ╭─❏ ᴜsᴇʀ ❏\n │ 𝙵𝚄𝙻𝙻𝙿𝙿\n │ 𝙹𝙸𝙳\n │ 𝙻𝙴𝙵𝚃\n │ 𝙱𝙻𝙾𝙲𝙺\n │ 𝚄𝙽𝙱𝙻𝙾𝙲𝙺\n │ 𝙿𝙿\n │ 𝙶𝙹𝙸𝙳\n ╰─────────────────\n ╭─❏ ɢᴀᴍᴇ ❏\n │ 𝚃𝙸𝙲𝚃𝙰𝙲𝚃𝙾𝙴\n ╰─────────────────\n ╭─❏ ᴛᴇxᴛᴍᴀᴋᴇʀ ❏\n │ 𝙲𝙰𝚃\n │ 𝙷𝙰𝙲𝙺𝙴𝚁\n │ 𝚂𝙸𝙶𝙽\n │ 𝙶𝙻𝙸𝚃𝚃𝙴𝚁\n │ 𝙻𝙸𝙶𝙷𝚃\n │ 𝙻𝙸𝙶𝙷𝚃\n │ 𝙰𝙽𝙶𝙴𝙻\n │ 𝚃𝙰𝚃𝚃𝙾𝙾\n │ 𝙽𝙴𝙾𝙽\n │ 𝙼𝙰𝚁𝚅𝙴𝙻\n │ 𝚆𝙰𝚃𝙴𝚁𝙲𝙾𝙻𝙾𝚁\n │ 𝙱𝙿𝙸𝙽𝙺\n │ 𝟹𝙳\n │ 𝙱𝙻𝚄𝙱\n │ 𝙶𝚁𝙰𝙵𝙵𝙸𝚃𝙸\n │ 𝙱𝙻𝚄𝙱\n │ 𝙶𝙻𝙸𝚃𝙲𝙷\n │ 𝙰𝚅𝙴𝙽𝙶𝙴𝚁\n │ 𝚂𝙲𝙸\n ╰─────────────────"
+          }
+        },
+        "messageTimestamp": "1664640854",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "B208A7FEDE7CBB046D2C6A86DC545BFF"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".? owner",
+            "contextInfo": {
+              "stanzaId": "BAE5DF09C92905A7",
+              "participant": "6283119680420@s.whatsapp.net",
+              "quotedMessage": {
+                "listMessage": {
+                  "title": "```Selamat malam Dellas```\n*Sabtu - 1 Oktober 2022*\n",
+                  "description": "Sekarang Jam 16.14.14",
+                  "buttonText": "Click",
+                  "listType": "SINGLE_SELECT",
+                  "sections": [
+                    {
+                      "title": "List Featured",
+                      "rows": [
+                        {
+                          "title": "All",
+                          "rowId": ".? all"
+                        },
+                        {
+                          "title": "Games",
+                          "rowId": ".? game"
+                        },
+                        {
+                          "title": "RPG Games",
+                          "rowId": ".? rpg"
+                        },
+                        {
+                          "title": "Exp & Limit",
+                          "rowId": ".? xp"
+                        },
+                        {
+                          "title": "Stickers",
+                          "rowId": ".? sticker"
+                        },
+                        {
+                          "title": "Kerang Ajaib",
+                          "rowId": ".? kerang"
+                        },
+                        {
+                          "title": "Primbon Jawa",
+                          "rowId": ".? primbon"
+                        },
+                        {
+                          "title": "Text Maker",
+                          "rowId": ".? textmaker"
+                        },
+                        {
+                          "title": "Image Maker",
+                          "rowId": ".? imagemaker"
+                        },
+                        {
+                          "title": "Groups",
+                          "rowId": ".? group"
+                        },
+                        {
+                          "title": "Premium",
+                          "rowId": ".? premium"
+                        },
+                        {
+                          "title": "Internet",
+                          "rowId": ".? internet"
+                        },
+                        {
+                          "title": "Anonymous Chat",
+                          "rowId": ".? anonymous"
+                        },
+                        {
+                          "title": "Downloader",
+                          "rowId": ".? downloader"
+                        },
+                        {
+                          "title": "Tools",
+                          "rowId": ".? tools"
+                        },
+                        {
+                          "title": "Wattpadz",
+                          "rowId": ".? wattpadz"
+                        },
+                        {
+                          "title": "Anime",
+                          "rowId": ".? anime"
+                        },
+                        {
+                          "title": "Audio",
+                          "rowId": ".? audio"
+                        },
+                        {
+                          "title": "Database",
+                          "rowId": ".? database"
+                        },
+                        {
+                          "title": "Owner",
+                          "rowId": ".? owner"
+                        },
+                        {
+                          "title": "Jadian",
+                          "rowId": ".? jadian"
+                        },
+                        {
+                          "title": "Tanpa Kategori",
+                          "rowId": ".? noktg"
+                        }
+                      ]
+                    }
+                  ],
+                  "footerText": "Della."
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1664640861",
+        "status": "PENDING",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE58FE912D42C42"
+        },
+        "message": {
+          "protocolMessage": {
+            "key": {
+              "remoteJid": "6281224863098@s.whatsapp.net",
+              "fromMe": true,
+              "id": "BAE5DF09C92905A7",
+              "participant": "6283119680420@s.whatsapp.net"
+            },
+            "type": "REVOKE"
+          }
+        },
+        "messageTimestamp": "1664640915",
+        "status": "DELIVERY_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5EDCE76D543F3"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Successfully connected"
+          }
+        },
+        "messageTimestamp": "1664641066",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "91D528D27973B72B3959203190720877"
+        },
+        "message": {
+          "conversation": ".menu"
+        },
+        "messageTimestamp": "1664641071",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "BAE5054F1923902D"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "```╭═══ LEVANTER ═══⊷\n┃❃╭──────────────\n┃❃│ Prefix : .\n┃❃│ User : Dellas\n┃❃│ Time : 9:47:51 PM\n┃❃│ Day : Saturday\n┃❃│ Date : 1/10/2022\n┃❃│ Version : 3.7.5\n┃❃│ Plugins : 184\n┃❃│ Ram : 35045/63631MB\n┃❃│ Uptime : 2h 17m 13s\n┃❃╰───────────────\n╰═════════════════⊷\n``` ╭─❏ ᴍɪsᴄ ❏\n │ 𝙰𝙵𝙺\n │ 𝙰𝙻𝙸𝚅𝙴\n │ 𝚂𝙴𝚃𝙲𝙼𝙳\n │ 𝙶𝙴𝚃𝙲𝙼𝙳\n │ 𝙳𝙴𝙻𝙲𝙼𝙳\n │ 𝙵𝙰𝙽𝙲𝚈\n │ 𝙵𝙾𝚁𝚆𝙰𝚁𝙳\n │ 𝚂𝙰𝚅𝙴\n │ 𝙻𝚈𝙳𝙸𝙰\n │ 𝙰𝚅𝙼\n │ 𝙼𝙴𝙽𝚃𝙸𝙾𝙽\n │ 𝙽𝙴𝚆𝚂\n │ 𝙿𝙸𝙽𝙶\n │ 𝙿𝙻𝚄𝙶𝙸𝙽\n │ 𝚁𝙴𝙼𝙾𝚅𝙴\n │ 𝚁𝙴𝙱𝙾𝙾𝚃\n │ 𝚆𝙷𝙾𝙸𝚂\n │ 𝚀𝚁\n │ 𝚁𝙴𝙰𝙲𝚃\n │ 𝚁𝙼𝙱𝙶\n │ 𝚃𝚃𝚂\n │ 𝚄𝚁𝙻\n │ 𝙼𝙵𝙾𝚁𝚆𝙰𝚁𝙳\n │ 𝚆𝙰\n │ 𝙵𝙸𝙽𝙳\n │ 𝚃𝙶\n ╰─────────────────\n ╭─❏ ɢʀᴏᴜᴘ ❏\n │ 𝙰𝙽𝚃𝙸𝙻𝙸𝙽𝙺\n │ 𝙰𝙽𝚃𝙸𝙵𝙰𝙺𝙴\n │ 𝙰𝙽𝚃𝙸𝚆𝙾𝚁𝙳\n │ 𝚂𝚃𝙾𝙿\n │ 𝙵𝙸𝙻𝚃𝙴𝚁\n │ 𝙶𝙿𝙿\n │ 𝚆𝙴𝙻𝙲𝙾𝙼𝙴\n │ 𝙶𝙾𝙾𝙳𝙱𝚈𝙴\n │ 𝙺𝙸𝙲𝙺\n │ 𝙰𝙳𝙳\n │ 𝙿𝚁𝙾𝙼𝙾𝚃𝙴\n │ 𝙳𝙴𝙼𝙾𝚃𝙴\n │ 𝙸𝙽𝚅𝙸𝚃𝙴\n │ 𝙼𝚄𝚃𝙴\n │ 𝚄𝙽𝙼𝚄𝚃𝙴\n │ 𝙹𝙾𝙸𝙽\n │ 𝚁𝙴𝚅𝙾𝙺𝙴\n │ 𝙶𝙸𝙽𝙵𝙾\n │ 𝙲𝙾𝙼𝙼𝙾𝙽\n │ 𝙼𝚂𝙶𝚂\n │ 𝚁𝙴𝚂𝙴𝚃\n │ 𝙸𝙽𝙰𝙲𝚃𝙸𝚅𝙴\n │ 𝙰𝙼𝚄𝚃𝙴\n │ 𝙰𝚄𝙽𝙼𝚄𝚃𝙴\n │ 𝙿𝙳𝙼\n │ 𝙰𝙽𝚃𝙸𝚂𝙿𝙰𝙼\n │ 𝚃𝙰𝙶\n │ 𝚅𝙾𝚃𝙴\n │ 𝚆𝙰𝚁𝙽\n ╰─────────────────\n ╭─❏ ᴅᴏᴡɴʟᴏᴀᴅ ❏\n │ 𝙰𝙿𝙺\n │ 𝙵𝙱\n │ 𝙸𝙽𝚂𝚃𝙰\n │ 𝙼𝙴𝙳𝙸𝙰𝙵𝙸𝚁𝙴\n │ 𝙿𝙸𝙽𝚃𝙴𝚁𝙴𝚂𝚃\n │ 𝚂𝚂\n │ 𝙵𝚄𝙻𝙻𝚂𝚂\n │ 𝚂𝚃𝙾𝚁𝚈\n │ 𝚃𝙸𝙺𝚃𝙾𝙺\n │ 𝚃𝚆𝙸𝚃𝚃𝙴𝚁\n │ 𝚄𝙿𝙻𝙾𝙰𝙳\n │ 𝚈𝚃𝚅\n │ 𝚈𝚃𝙰\n │ 𝚂𝙾𝙽𝙶\n │ 𝚅𝙸𝙳𝙴𝙾\n │ 𝙿𝙻𝙰𝚈\n │ 𝚈𝚃𝙻\n ╰─────────────────\n ╭─❏ ᴡʜᴀᴛsᴀᴘᴘ ❏\n │ 𝙱𝚄𝚃𝚃𝙾𝙽\n │ 𝙲𝙻𝙴𝙰𝚁\n │ 𝙳𝙻𝚃\n │ 𝙲𝙰𝙿𝚃𝙸𝙾𝙽\n │ 𝚅𝚅\n │ 𝙳𝙾𝙲\n ╰─────────────────\n ╭─❏ ᴇᴅɪᴛᴏʀ ❏\n │ 𝚂𝙺𝚄𝙻𝙻\n │ 𝚂𝙺𝙴𝚃𝙲𝙷\n │ 𝙿𝙴𝙽𝙲𝙸𝙻\n │ 𝙲𝙾𝙻𝙾𝚁\n │ 𝙺𝙸𝚂𝚂\n │ 𝙱𝙾𝙺𝙴𝙷\n │ 𝚆𝙰𝙽𝚃𝙴𝙳\n │ 𝙻𝙾𝙾𝙺\n │ 𝙶𝙰𝙽𝙳𝙼\n │ 𝙳𝙰𝚁𝙺\n │ 𝙼𝙰𝙺𝙴𝚄𝙿\n │ 𝙲𝙰𝚁𝚃𝙾𝙾𝙽\n │ 𝙳𝙴𝙼𝙾𝙽\n │ 𝙱𝙻𝙾𝙾𝙳𝚈\n │ 𝚉𝙾𝙼𝙱𝙸𝙴\n │ 𝙷𝙾𝚁𝙽𝙴𝙳\n ╰─────────────────\n ╭─❏ sᴇᴀʀᴄʜ ❏\n │ 𝙶𝙾𝙾𝙶𝙻𝙴\n │ 𝙸𝙼𝙶\n │ 𝙼𝙾𝚅𝙸𝙴\n │ 𝚃𝚁𝚃\n │ 𝚆𝙴𝙰𝚃𝙷𝙴𝚁\n │ 𝚈𝚃𝚂\n │ 𝙹𝙴𝙰𝙽\n │ 𝙻𝚈𝚁𝙸𝙲𝚂\n │ 𝚃𝙸𝙼𝙴\n │ 𝙸𝙶\n │ 𝙴𝙼𝙸𝚇\n │ 𝙴𝙼𝙾𝙹𝙸\n ╰─────────────────\n ╭─❏ ʜᴇʀᴏᴋᴜ ❏\n │ 𝚁𝙴𝚂𝚃𝙰𝚁𝚃\n │ 𝚂𝙷𝚄𝚃𝙳𝙾𝚆𝙽\n │ 𝙳𝚈𝙽𝙾\n │ 𝚂𝙴𝚃𝚅𝙰𝚁\n │ 𝙳𝙴𝙻𝚅𝙰𝚁\n │ 𝙶𝙴𝚃𝚅𝙰𝚁\n │ 𝙰𝙻𝙻𝚅𝙰𝚁\n │ 𝚄𝙿𝙳𝙰𝚃𝙴\n │ 𝚄𝙿𝙳𝙰𝚃𝙴 𝙽𝙾𝚆\n │ 𝚂𝙴𝚃𝚂𝚄𝙳𝙾\n │ 𝙳𝙴𝙻𝚂𝚄𝙳𝙾\n │ 𝙶𝙴𝚃𝚂𝚄𝙳𝙾\n ╰─────────────────\n ╭─❏ ᴠɪᴅᴇᴏ ❏\n │ 𝚁𝙾𝚃𝙰𝚃𝙴\n │ 𝙼𝙿𝟹\n │ 𝚁𝙴𝚅𝙴𝚁𝚂𝙴\n │ 𝚃𝚁𝙸𝙼\n │ 𝙼𝙴𝚁𝙶𝙴\n │ 𝙲𝙾𝙼𝙿𝚁𝙴𝚂𝚂\n │ 𝙲𝚁𝙾𝙿\n ╰─────────────────\n ╭─❏ sᴛɪᴄᴋᴇʀ ❏\n │ 𝙿𝙷𝙾𝚃𝙾\n │ 𝚂𝚃𝙸𝙲𝙺𝙴𝚁\n │ 𝙲𝙸𝚁𝙲𝙻𝙴\n │ 𝚃𝙰𝙺𝙴\n │ 𝙼𝙿𝟺\n ╰─────────────────\n ╭─❏ ᴀᴜᴅɪᴏ ❏\n │ 𝙲𝚄𝚃\n │ 𝙱𝙰𝚂𝚂\n │ 𝚃𝚁𝙴𝙱𝙻𝙴\n │ 𝙷𝙸𝚂𝚃𝙾\n │ 𝚅𝙴𝙲𝚃𝙾𝚁\n │ 𝙻𝙾𝚆\n │ 𝙿𝙸𝚃𝙲𝙷\n │ 𝙰𝚅𝙴𝙲\n │ 𝙱𝙻𝙰𝙲𝙺\n │ 𝙱𝙻𝙾𝚆𝙽\n │ 𝙳𝙴𝙴𝙿\n │ 𝙴𝙰𝚁𝚁𝙰𝙿𝙴\n │ 𝙵𝙰𝚂𝚃\n │ 𝙵𝙰𝚃\n │ 𝙽𝙸𝙶𝙷𝚃𝙲𝙾𝚁𝙴\n │ 𝚁𝙾𝙱𝙾𝚃\n │ 𝚂𝙻𝙾𝚆\n │ 𝚂𝙼𝙾𝙾𝚃𝙷\n │ 𝚃𝚄𝙿𝙰𝙸\n ╰─────────────────\n ╭─❏ ᴅᴏᴄᴜᴍᴇɴᴛ ❏\n │ 𝙿𝙰𝙶𝙴\n │ 𝙿𝙳𝙵\n ╰─────────────────\n ╭─❏ ᴜsᴇʀ ❏\n │ 𝙵𝚄𝙻𝙻𝙿𝙿\n │ 𝙹𝙸𝙳\n │ 𝙻𝙴𝙵𝚃\n │ 𝙱𝙻𝙾𝙲𝙺\n │ 𝚄𝙽𝙱𝙻𝙾𝙲𝙺\n │ 𝙿𝙿\n │ 𝙶𝙹𝙸𝙳\n ╰─────────────────\n ╭─❏ ɢᴀᴍᴇ ❏\n │ 𝚃𝙸𝙲𝚃𝙰𝙲𝚃𝙾𝙴\n ╰─────────────────\n ╭─❏ ᴛᴇxᴛᴍᴀᴋᴇʀ ❏\n │ 𝙲𝙰𝚃\n │ 𝙷𝙰𝙲𝙺𝙴𝚁\n │ 𝚂𝙸𝙶𝙽\n │ 𝙶𝙻𝙸𝚃𝚃𝙴𝚁\n │ 𝙻𝙸𝙶𝙷𝚃\n │ 𝙻𝙸𝙶𝙷𝚃\n │ 𝙰𝙽𝙶𝙴𝙻\n │ 𝚃𝙰𝚃𝚃𝙾𝙾\n │ 𝙽𝙴𝙾𝙽\n │ 𝙼𝙰𝚁𝚅𝙴𝙻\n │ 𝚆𝙰𝚃𝙴𝚁𝙲𝙾𝙻𝙾𝚁\n │ 𝙱𝙿𝙸𝙽𝙺\n │ 𝟹𝙳\n │ 𝙱𝙻𝚄𝙱\n │ 𝙶𝚁𝙰𝙵𝙵𝙸𝚃𝙸\n │ 𝙱𝙻𝚄𝙱\n │ 𝙶𝙻𝙸𝚃𝙲𝙷\n │ 𝙰𝚅𝙴𝙽𝙶𝙴𝚁\n │ 𝚂𝙲𝙸\n ╰─────────────────"
+          }
+        },
+        "messageTimestamp": "1664641071",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE51804AD435461",
+          "participant": "6283119680420@s.whatsapp.net"
+        },
+        "message": {
+          "viewOnceMessage": {
+            "message": {
+              "messageContextInfo": {
+                "deviceListMetadata": {},
+                "deviceListMetadataVersion": 2
+              },
+              "listMessage": {
+                "title": "```Selamat malam Dellas```\n*Sabtu - 1 Oktober 2022*\n",
+                "description": "Sekarang Jam 16.17.51",
+                "buttonText": "Click",
+                "listType": "SINGLE_SELECT",
+                "sections": [
+                  {
+                    "title": "List Featured",
+                    "rows": [
+                      {
+                        "title": "All",
+                        "rowId": ".? all"
+                      },
+                      {
+                        "title": "Games",
+                        "rowId": ".? game"
+                      },
+                      {
+                        "title": "RPG Games",
+                        "rowId": ".? rpg"
+                      },
+                      {
+                        "title": "Exp & Limit",
+                        "rowId": ".? xp"
+                      },
+                      {
+                        "title": "Stickers",
+                        "rowId": ".? sticker"
+                      },
+                      {
+                        "title": "Kerang Ajaib",
+                        "rowId": ".? kerang"
+                      },
+                      {
+                        "title": "Primbon Jawa",
+                        "rowId": ".? primbon"
+                      },
+                      {
+                        "title": "Text Maker",
+                        "rowId": ".? textmaker"
+                      },
+                      {
+                        "title": "Image Maker",
+                        "rowId": ".? imagemaker"
+                      },
+                      {
+                        "title": "Groups",
+                        "rowId": ".? group"
+                      },
+                      {
+                        "title": "Premium",
+                        "rowId": ".? premium"
+                      },
+                      {
+                        "title": "Internet",
+                        "rowId": ".? internet"
+                      },
+                      {
+                        "title": "Anonymous Chat",
+                        "rowId": ".? anonymous"
+                      },
+                      {
+                        "title": "Downloader",
+                        "rowId": ".? downloader"
+                      },
+                      {
+                        "title": "Tools",
+                        "rowId": ".? tools"
+                      },
+                      {
+                        "title": "Wattpadz",
+                        "rowId": ".? wattpadz"
+                      },
+                      {
+                        "title": "Anime",
+                        "rowId": ".? anime"
+                      },
+                      {
+                        "title": "Audio",
+                        "rowId": ".? audio"
+                      },
+                      {
+                        "title": "Database",
+                        "rowId": ".? database"
+                      },
+                      {
+                        "title": "Owner",
+                        "rowId": ".? owner"
+                      },
+                      {
+                        "title": "Jadian",
+                        "rowId": ".? jadian"
+                      },
+                      {
+                        "title": "Tanpa Kategori",
+                        "rowId": ".? noktg"
+                      }
+                    ]
+                  }
+                ],
+                "footerText": "Della."
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1664641071",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "98EA0C9B37D52841FAD8BB5FFB93B294"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".? kerang",
+            "contextInfo": {
+              "stanzaId": "BAE51804AD435461",
+              "participant": "6283119680420@s.whatsapp.net",
+              "quotedMessage": {
+                "listMessage": {
+                  "title": "```Selamat malam Dellas```\n*Sabtu - 1 Oktober 2022*\n",
+                  "description": "Sekarang Jam 16.17.51",
+                  "buttonText": "Click",
+                  "listType": "SINGLE_SELECT",
+                  "sections": [
+                    {
+                      "title": "List Featured",
+                      "rows": [
+                        {
+                          "title": "All",
+                          "rowId": ".? all"
+                        },
+                        {
+                          "title": "Games",
+                          "rowId": ".? game"
+                        },
+                        {
+                          "title": "RPG Games",
+                          "rowId": ".? rpg"
+                        },
+                        {
+                          "title": "Exp & Limit",
+                          "rowId": ".? xp"
+                        },
+                        {
+                          "title": "Stickers",
+                          "rowId": ".? sticker"
+                        },
+                        {
+                          "title": "Kerang Ajaib",
+                          "rowId": ".? kerang"
+                        },
+                        {
+                          "title": "Primbon Jawa",
+                          "rowId": ".? primbon"
+                        },
+                        {
+                          "title": "Text Maker",
+                          "rowId": ".? textmaker"
+                        },
+                        {
+                          "title": "Image Maker",
+                          "rowId": ".? imagemaker"
+                        },
+                        {
+                          "title": "Groups",
+                          "rowId": ".? group"
+                        },
+                        {
+                          "title": "Premium",
+                          "rowId": ".? premium"
+                        },
+                        {
+                          "title": "Internet",
+                          "rowId": ".? internet"
+                        },
+                        {
+                          "title": "Anonymous Chat",
+                          "rowId": ".? anonymous"
+                        },
+                        {
+                          "title": "Downloader",
+                          "rowId": ".? downloader"
+                        },
+                        {
+                          "title": "Tools",
+                          "rowId": ".? tools"
+                        },
+                        {
+                          "title": "Wattpadz",
+                          "rowId": ".? wattpadz"
+                        },
+                        {
+                          "title": "Anime",
+                          "rowId": ".? anime"
+                        },
+                        {
+                          "title": "Audio",
+                          "rowId": ".? audio"
+                        },
+                        {
+                          "title": "Database",
+                          "rowId": ".? database"
+                        },
+                        {
+                          "title": "Owner",
+                          "rowId": ".? owner"
+                        },
+                        {
+                          "title": "Jadian",
+                          "rowId": ".? jadian"
+                        },
+                        {
+                          "title": "Tanpa Kategori",
+                          "rowId": ".? noktg"
+                        }
+                      ]
+                    }
+                  ],
+                  "footerText": "Della."
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1664641074",
+        "status": "PENDING",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "EFF8D590A937883E073600D8FBE3CA74"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "/donasi"
+          }
+        },
+        "messageTimestamp": "1664641089",
+        "status": "PENDING",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5B896CA640B58"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Selamat, Dellas telah naik level!\n• 🧬Level Sebelumnya : 0\n• 🧬Level Baru : 1\n• 🧬Role Kamu : Warrior V\ngunakan *.inventory* untuk mengecek",
+            "contextInfo": {
+              "stanzaId": "EFF8D590A937883E073600D8FBE3CA74",
+              "participant": "6281224863098@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": "/donasi"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1664641089",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5CC3CF2FB7CC9"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "╭─「 Donasi 」\n│ • TELKOMSEL [08211499086]\n│ • DANA [08211499086]\n│ • OVO [08211499086]\n│ • GOPAY [08211499086]\n│ • SHOPPY PAY [08211499086]\n│ • Saweria [https://saweria.co/botstyle]\n╰────\n╭─「 Hubungi 」\n│ > Ingin donasi? Wa.me/62895368900456\n╰────",
+            "matchedText": "https://saweria.co/botstyle",
+            "canonicalUrl": "https://saweria.co/botstyle",
+            "title": "Attention Required! | Cloudflare",
+            "contextInfo": {
+              "stanzaId": "EFF8D590A937883E073600D8FBE3CA74",
+              "participant": "6281224863098@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": "/donasi"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1664641089",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE53DEEF02AC8D7"
+        },
+        "message": {
+          "protocolMessage": {
+            "key": {
+              "remoteJid": "6281224863098@s.whatsapp.net",
+              "fromMe": true,
+              "id": "BAE51804AD435461",
+              "participant": "6283119680420@s.whatsapp.net"
+            },
+            "type": "REVOKE"
+          }
+        },
+        "messageTimestamp": "1664641131",
+        "status": "DELIVERY_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "9744942EC1941982262FECE4AE14BC50"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "/ping"
+          }
+        },
+        "messageTimestamp": "1664641174",
+        "status": "PENDING",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5C3C540802870"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "_Testing speed..._",
+            "contextInfo": {
+              "stanzaId": "9744942EC1941982262FECE4AE14BC50",
+              "participant": "6281224863098@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": "/ping"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1664641175",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5980AE689CA90"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Merespon dalam 178.2440900001675 millidetik\n\n💬 Status :\n- *0* Group Chats\n- *0* Groups Joined\n- *0* Groups Left\n- *1* Personal Chats\n- *1* Total Chats\n\n💻 *Server Info* :\nRAM: 23.22 GB / 62.8 GB\n\n_NodeJS Memory Usage_\n```rss         : 164.04 MB\nheapTotal   : 94.06 MB\nheapUsed    : 81.95 MB\nexternal    : 30.81 MB\narrayBuffers: 19.15 MB```\n\n_Total CPU Usage_\nAMD EPYC 7B12 (2249 MHZ)\n- *user* : 39.47%\n- *nice* : 0.12%\n- *sys*  : 15.90%\n- *idle* : 44.50%\n- *irq*  : 0.00%\n\n_CPU Core(s) Usage (8 Core CPU)_\n1. AMD EPYC 7B12 (2249 MHZ)\n- *user* : 40.76%\n- *nice* : 0.01%\n- *sys*  : 14.63%\n- *idle* : 44.61%\n- *irq*  : 0.00%\n\n2. AMD EPYC 7B12 (2249 MHZ)\n- *user* : 41.04%\n- *nice* : 0.00%\n- *sys*  : 14.62%\n- *idle* : 44.34%\n- *irq*  : 0.00%\n\n3. AMD EPYC 7B12 (2249 MHZ)\n- *user* : 40.40%\n- *nice* : 0.16%\n- *sys*  : 15.77%\n- *idle* : 43.66%\n- *irq*  : 0.00%\n\n4. AMD EPYC 7B12 (2249 MHZ)\n- *user* : 41.05%\n- *nice* : 0.12%\n- *sys*  : 15.58%\n- *idle* : 43.25%\n- *irq*  : 0.00%\n\n5. AMD EPYC 7B12 (2249 MHZ)\n- *user* : 36.84%\n- *nice* : 0.19%\n- *sys*  : 17.46%\n- *idle* : 45.51%\n- *irq*  : 0.00%\n\n6. AMD EPYC 7B12 (2249 MHZ)\n- *user* : 36.72%\n- *nice* : 0.25%\n- *sys*  : 17.24%\n- *idle* : 45.78%\n- *irq*  : 0.00%\n\n7. AMD EPYC 7B12 (2249 MHZ)\n- *user* : 40.34%\n- *nice* : 0.14%\n- *sys*  : 15.69%\n- *idle* : 43.82%\n- *irq*  : 0.00%\n\n8. AMD EPYC 7B12 (2249 MHZ)\n- *user* : 38.52%\n- *nice* : 0.12%\n- *sys*  : 16.28%\n- *idle* : 45.08%\n- *irq*  : 0.00%",
+            "contextInfo": {
+              "stanzaId": "9744942EC1941982262FECE4AE14BC50",
+              "participant": "6281224863098@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": "/ping"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1664641175",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "16F4F35C1691180284E1D0790A48348A"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "/owner"
+          }
+        },
+        "messageTimestamp": "1664641182",
+        "status": "PENDING",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5D9AA6B05BA78"
+        },
+        "message": {
+          "contactMessage": {
+            "displayName": "Della.",
+            "vcard": "BEGIN:VCARD\nVERSION:3.0\nN:;Della.;;;\nFN:Della.\nTEL;type=CELL;type=VOICE;waid=6281224863098:+62 812-2486-3098\nEND:VCARD",
+            "contextInfo": {
+              "stanzaId": "16F4F35C1691180284E1D0790A48348A",
+              "participant": "6281224863098@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": "/owner"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1664641182",
+        "status": "PENDING"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5C4CCF0DA139F"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Successfully connected"
+          }
+        },
+        "messageTimestamp": "1664641207",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "67C59CA8E4F7064C8D3A74DF6C6930D1"
+        },
+        "message": {
+          "conversation": ".menu"
+        },
+        "messageTimestamp": "1664641251",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "BAE564390517D44E"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "```╭═══ LEVANTER ═══⊷\n┃❃╭──────────────\n┃❃│ Prefix : .\n┃❃│ User : Dellas\n┃❃│ Time : 9:50:51 PM\n┃❃│ Day : Saturday\n┃❃│ Date : 1/10/2022\n┃❃│ Version : 3.7.5\n┃❃│ Plugins : 184\n┃❃│ Ram : 35150/63631MB\n┃❃│ Uptime : 2h 20m 14s\n┃❃╰───────────────\n╰═════════════════⊷\n``` ╭─❏ ᴍɪsᴄ ❏\n │ 𝙰𝙵𝙺\n │ 𝙰𝙻𝙸𝚅𝙴\n │ 𝚂𝙴𝚃𝙲𝙼𝙳\n │ 𝙶𝙴𝚃𝙲𝙼𝙳\n │ 𝙳𝙴𝙻𝙲𝙼𝙳\n │ 𝙵𝙰𝙽𝙲𝚈\n │ 𝙵𝙾𝚁𝚆𝙰𝚁𝙳\n │ 𝚂𝙰𝚅𝙴\n │ 𝙻𝚈𝙳𝙸𝙰\n │ 𝙰𝚅𝙼\n │ 𝙼𝙴𝙽𝚃𝙸𝙾𝙽\n │ 𝙽𝙴𝚆𝚂\n │ 𝙿𝙸𝙽𝙶\n │ 𝙿𝙻𝚄𝙶𝙸𝙽\n │ 𝚁𝙴𝙼𝙾𝚅𝙴\n │ 𝚁𝙴𝙱𝙾𝙾𝚃\n │ 𝚆𝙷𝙾𝙸𝚂\n │ 𝚀𝚁\n │ 𝚁𝙴𝙰𝙲𝚃\n │ 𝚁𝙼𝙱𝙶\n │ 𝚃𝚃𝚂\n │ 𝚄𝚁𝙻\n │ 𝙼𝙵𝙾𝚁𝚆𝙰𝚁𝙳\n │ 𝚆𝙰\n │ 𝙵𝙸𝙽𝙳\n │ 𝚃𝙶\n ╰─────────────────\n ╭─❏ ɢʀᴏᴜᴘ ❏\n │ 𝙰𝙽𝚃𝙸𝙻𝙸𝙽𝙺\n │ 𝙰𝙽𝚃𝙸𝙵𝙰𝙺𝙴\n │ 𝙰𝙽𝚃𝙸𝚆𝙾𝚁𝙳\n │ 𝚂𝚃𝙾𝙿\n │ 𝙵𝙸𝙻𝚃𝙴𝚁\n │ 𝙶𝙿𝙿\n │ 𝚆𝙴𝙻𝙲𝙾𝙼𝙴\n │ 𝙶𝙾𝙾𝙳𝙱𝚈𝙴\n │ 𝙺𝙸𝙲𝙺\n │ 𝙰𝙳𝙳\n │ 𝙿𝚁𝙾𝙼𝙾𝚃𝙴\n │ 𝙳𝙴𝙼𝙾𝚃𝙴\n │ 𝙸𝙽𝚅𝙸𝚃𝙴\n │ 𝙼𝚄𝚃𝙴\n │ 𝚄𝙽𝙼𝚄𝚃𝙴\n │ 𝙹𝙾𝙸𝙽\n │ 𝚁𝙴𝚅𝙾𝙺𝙴\n │ 𝙶𝙸𝙽𝙵𝙾\n │ 𝙲𝙾𝙼𝙼𝙾𝙽\n │ 𝙼𝚂𝙶𝚂\n │ 𝚁𝙴𝚂𝙴𝚃\n │ 𝙸𝙽𝙰𝙲𝚃𝙸𝚅𝙴\n │ 𝙰𝙼𝚄𝚃𝙴\n │ 𝙰𝚄𝙽𝙼𝚄𝚃𝙴\n │ 𝙿𝙳𝙼\n │ 𝙰𝙽𝚃𝙸𝚂𝙿𝙰𝙼\n │ 𝚃𝙰𝙶\n │ 𝚅𝙾𝚃𝙴\n │ 𝚆𝙰𝚁𝙽\n ╰─────────────────\n ╭─❏ ᴅᴏᴡɴʟᴏᴀᴅ ❏\n │ 𝙰𝙿𝙺\n │ 𝙵𝙱\n │ 𝙸𝙽𝚂𝚃𝙰\n │ 𝙼𝙴𝙳𝙸𝙰𝙵𝙸𝚁𝙴\n │ 𝙿𝙸𝙽𝚃𝙴𝚁𝙴𝚂𝚃\n │ 𝚂𝚂\n │ 𝙵𝚄𝙻𝙻𝚂𝚂\n │ 𝚂𝚃𝙾𝚁𝚈\n │ 𝚃𝙸𝙺𝚃𝙾𝙺\n │ 𝚃𝚆𝙸𝚃𝚃𝙴𝚁\n │ 𝚄𝙿𝙻𝙾𝙰𝙳\n │ 𝚈𝚃𝚅\n │ 𝚈𝚃𝙰\n │ 𝚂𝙾𝙽𝙶\n │ 𝚅𝙸𝙳𝙴𝙾\n │ 𝙿𝙻𝙰𝚈\n │ 𝚈𝚃𝙻\n ╰─────────────────\n ╭─❏ ᴡʜᴀᴛsᴀᴘᴘ ❏\n │ 𝙱𝚄𝚃𝚃𝙾𝙽\n │ 𝙲𝙻𝙴𝙰𝚁\n │ 𝙳𝙻𝚃\n │ 𝙲𝙰𝙿𝚃𝙸𝙾𝙽\n │ 𝚅𝚅\n │ 𝙳𝙾𝙲\n ╰─────────────────\n ╭─❏ ᴇᴅɪᴛᴏʀ ❏\n │ 𝚂𝙺𝚄𝙻𝙻\n │ 𝚂𝙺𝙴𝚃𝙲𝙷\n │ 𝙿𝙴𝙽𝙲𝙸𝙻\n │ 𝙲𝙾𝙻𝙾𝚁\n │ 𝙺𝙸𝚂𝚂\n │ 𝙱𝙾𝙺𝙴𝙷\n │ 𝚆𝙰𝙽𝚃𝙴𝙳\n │ 𝙻𝙾𝙾𝙺\n │ 𝙶𝙰𝙽𝙳𝙼\n │ 𝙳𝙰𝚁𝙺\n │ 𝙼𝙰𝙺𝙴𝚄𝙿\n │ 𝙲𝙰𝚁𝚃𝙾𝙾𝙽\n │ 𝙳𝙴𝙼𝙾𝙽\n │ 𝙱𝙻𝙾𝙾𝙳𝚈\n │ 𝚉𝙾𝙼𝙱𝙸𝙴\n │ 𝙷𝙾𝚁𝙽𝙴𝙳\n ╰─────────────────\n ╭─❏ sᴇᴀʀᴄʜ ❏\n │ 𝙶𝙾𝙾𝙶𝙻𝙴\n │ 𝙸𝙼𝙶\n │ 𝙼𝙾𝚅𝙸𝙴\n │ 𝚃𝚁𝚃\n │ 𝚆𝙴𝙰𝚃𝙷𝙴𝚁\n │ 𝚈𝚃𝚂\n │ 𝙹𝙴𝙰𝙽\n │ 𝙻𝚈𝚁𝙸𝙲𝚂\n │ 𝚃𝙸𝙼𝙴\n │ 𝙸𝙶\n │ 𝙴𝙼𝙸𝚇\n │ 𝙴𝙼𝙾𝙹𝙸\n ╰─────────────────\n ╭─❏ ʜᴇʀᴏᴋᴜ ❏\n │ 𝚁𝙴𝚂𝚃𝙰𝚁𝚃\n │ 𝚂𝙷𝚄𝚃𝙳𝙾𝚆𝙽\n │ 𝙳𝚈𝙽𝙾\n │ 𝚂𝙴𝚃𝚅𝙰𝚁\n │ 𝙳𝙴𝙻𝚅𝙰𝚁\n │ 𝙶𝙴𝚃𝚅𝙰𝚁\n │ 𝙰𝙻𝙻𝚅𝙰𝚁\n │ 𝚄𝙿𝙳𝙰𝚃𝙴\n │ 𝚄𝙿𝙳𝙰𝚃𝙴 𝙽𝙾𝚆\n │ 𝚂𝙴𝚃𝚂𝚄𝙳𝙾\n │ 𝙳𝙴𝙻𝚂𝚄𝙳𝙾\n │ 𝙶𝙴𝚃𝚂𝚄𝙳𝙾\n ╰─────────────────\n ╭─❏ ᴠɪᴅᴇᴏ ❏\n │ 𝚁𝙾𝚃𝙰𝚃𝙴\n │ 𝙼𝙿𝟹\n │ 𝚁𝙴𝚅𝙴𝚁𝚂𝙴\n │ 𝚃𝚁𝙸𝙼\n │ 𝙼𝙴𝚁𝙶𝙴\n │ 𝙲𝙾𝙼𝙿𝚁𝙴𝚂𝚂\n │ 𝙲𝚁𝙾𝙿\n ╰─────────────────\n ╭─❏ sᴛɪᴄᴋᴇʀ ❏\n │ 𝙿𝙷𝙾𝚃𝙾\n │ 𝚂𝚃𝙸𝙲𝙺𝙴𝚁\n │ 𝙲𝙸𝚁𝙲𝙻𝙴\n │ 𝚃𝙰𝙺𝙴\n │ 𝙼𝙿𝟺\n ╰─────────────────\n ╭─❏ ᴀᴜᴅɪᴏ ❏\n │ 𝙲𝚄𝚃\n │ 𝙱𝙰𝚂𝚂\n │ 𝚃𝚁𝙴𝙱𝙻𝙴\n │ 𝙷𝙸𝚂𝚃𝙾\n │ 𝚅𝙴𝙲𝚃𝙾𝚁\n │ 𝙻𝙾𝚆\n │ 𝙿𝙸𝚃𝙲𝙷\n │ 𝙰𝚅𝙴𝙲\n │ 𝙱𝙻𝙰𝙲𝙺\n │ 𝙱𝙻𝙾𝚆𝙽\n │ 𝙳𝙴𝙴𝙿\n │ 𝙴𝙰𝚁𝚁𝙰𝙿𝙴\n │ 𝙵𝙰𝚂𝚃\n │ 𝙵𝙰𝚃\n │ 𝙽𝙸𝙶𝙷𝚃𝙲𝙾𝚁𝙴\n │ 𝚁𝙾𝙱𝙾𝚃\n │ 𝚂𝙻𝙾𝚆\n │ 𝚂𝙼𝙾𝙾𝚃𝙷\n │ 𝚃𝚄𝙿𝙰𝙸\n ╰─────────────────\n ╭─❏ ᴅᴏᴄᴜᴍᴇɴᴛ ❏\n │ 𝙿𝙰𝙶𝙴\n │ 𝙿𝙳𝙵\n ╰─────────────────\n ╭─❏ ᴜsᴇʀ ❏\n │ 𝙵𝚄𝙻𝙻𝙿𝙿\n │ 𝙹𝙸𝙳\n │ 𝙻𝙴𝙵𝚃\n │ 𝙱𝙻𝙾𝙲𝙺\n │ 𝚄𝙽𝙱𝙻𝙾𝙲𝙺\n │ 𝙿𝙿\n │ 𝙶𝙹𝙸𝙳\n ╰─────────────────\n ╭─❏ ɢᴀᴍᴇ ❏\n │ 𝚃𝙸𝙲𝚃𝙰𝙲𝚃𝙾𝙴\n ╰─────────────────\n ╭─❏ ᴛᴇxᴛᴍᴀᴋᴇʀ ❏\n │ 𝙲𝙰𝚃\n │ 𝙷𝙰𝙲𝙺𝙴𝚁\n │ 𝚂𝙸𝙶𝙽\n │ 𝙶𝙻𝙸𝚃𝚃𝙴𝚁\n │ 𝙻𝙸𝙶𝙷𝚃\n │ 𝙻𝙸𝙶𝙷𝚃\n │ 𝙰𝙽𝙶𝙴𝙻\n │ 𝚃𝙰𝚃𝚃𝙾𝙾\n │ 𝙽𝙴𝙾𝙽\n │ 𝙼𝙰𝚁𝚅𝙴𝙻\n │ 𝚆𝙰𝚃𝙴𝚁𝙲𝙾𝙻𝙾𝚁\n │ 𝙱𝙿𝙸𝙽𝙺\n │ 𝟹𝙳\n │ 𝙱𝙻𝚄𝙱\n │ 𝙶𝚁𝙰𝙵𝙵𝙸𝚃𝙸\n │ 𝙱𝙻𝚄𝙱\n │ 𝙶𝙻𝙸𝚃𝙲𝙷\n │ 𝙰𝚅𝙴𝙽𝙶𝙴𝚁\n │ 𝚂𝙲𝙸\n ╰─────────────────"
+          }
+        },
+        "messageTimestamp": "1664641252",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5D1BA2E5BC3F7",
+          "participant": "6283119680420@s.whatsapp.net"
+        },
+        "message": {
+          "viewOnceMessage": {
+            "message": {
+              "messageContextInfo": {
+                "deviceListMetadata": {},
+                "deviceListMetadataVersion": 2
+              },
+              "listMessage": {
+                "title": "```Selamat malam Dellas```\n*Sabtu - 1 Oktober 2022*\n",
+                "description": "Sekarang Jam 16.20.52",
+                "buttonText": "Click",
+                "listType": "SINGLE_SELECT",
+                "sections": [
+                  {
+                    "title": "List Featured",
+                    "rows": [
+                      {
+                        "title": "All",
+                        "rowId": ".? all"
+                      },
+                      {
+                        "title": "Games",
+                        "rowId": ".? game"
+                      },
+                      {
+                        "title": "RPG Games",
+                        "rowId": ".? rpg"
+                      },
+                      {
+                        "title": "Exp & Limit",
+                        "rowId": ".? xp"
+                      },
+                      {
+                        "title": "Stickers",
+                        "rowId": ".? sticker"
+                      },
+                      {
+                        "title": "Kerang Ajaib",
+                        "rowId": ".? kerang"
+                      },
+                      {
+                        "title": "Primbon Jawa",
+                        "rowId": ".? primbon"
+                      },
+                      {
+                        "title": "Text Maker",
+                        "rowId": ".? textmaker"
+                      },
+                      {
+                        "title": "Image Maker",
+                        "rowId": ".? imagemaker"
+                      },
+                      {
+                        "title": "Groups",
+                        "rowId": ".? group"
+                      },
+                      {
+                        "title": "Premium",
+                        "rowId": ".? premium"
+                      },
+                      {
+                        "title": "Internet",
+                        "rowId": ".? internet"
+                      },
+                      {
+                        "title": "Anonymous Chat",
+                        "rowId": ".? anonymous"
+                      },
+                      {
+                        "title": "Downloader",
+                        "rowId": ".? downloader"
+                      },
+                      {
+                        "title": "Tools",
+                        "rowId": ".? tools"
+                      },
+                      {
+                        "title": "Wattpadz",
+                        "rowId": ".? wattpadz"
+                      },
+                      {
+                        "title": "Anime",
+                        "rowId": ".? anime"
+                      },
+                      {
+                        "title": "Audio",
+                        "rowId": ".? audio"
+                      },
+                      {
+                        "title": "Database",
+                        "rowId": ".? database"
+                      },
+                      {
+                        "title": "Owner",
+                        "rowId": ".? owner"
+                      },
+                      {
+                        "title": "Jadian",
+                        "rowId": ".? jadian"
+                      },
+                      {
+                        "title": "Tanpa Kategori",
+                        "rowId": ".? noktg"
+                      }
+                    ]
+                  }
+                ],
+                "footerText": "Della."
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1664641252",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "53F2292EFCFD003A9D81412724FAE856"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".? anime",
+            "contextInfo": {
+              "stanzaId": "BAE5D1BA2E5BC3F7",
+              "participant": "6283119680420@s.whatsapp.net",
+              "quotedMessage": {
+                "listMessage": {
+                  "title": "```Selamat malam Dellas```\n*Sabtu - 1 Oktober 2022*\n",
+                  "description": "Sekarang Jam 16.20.52",
+                  "buttonText": "Click",
+                  "listType": "SINGLE_SELECT",
+                  "sections": [
+                    {
+                      "title": "List Featured",
+                      "rows": [
+                        {
+                          "title": "All",
+                          "rowId": ".? all"
+                        },
+                        {
+                          "title": "Games",
+                          "rowId": ".? game"
+                        },
+                        {
+                          "title": "RPG Games",
+                          "rowId": ".? rpg"
+                        },
+                        {
+                          "title": "Exp & Limit",
+                          "rowId": ".? xp"
+                        },
+                        {
+                          "title": "Stickers",
+                          "rowId": ".? sticker"
+                        },
+                        {
+                          "title": "Kerang Ajaib",
+                          "rowId": ".? kerang"
+                        },
+                        {
+                          "title": "Primbon Jawa",
+                          "rowId": ".? primbon"
+                        },
+                        {
+                          "title": "Text Maker",
+                          "rowId": ".? textmaker"
+                        },
+                        {
+                          "title": "Image Maker",
+                          "rowId": ".? imagemaker"
+                        },
+                        {
+                          "title": "Groups",
+                          "rowId": ".? group"
+                        },
+                        {
+                          "title": "Premium",
+                          "rowId": ".? premium"
+                        },
+                        {
+                          "title": "Internet",
+                          "rowId": ".? internet"
+                        },
+                        {
+                          "title": "Anonymous Chat",
+                          "rowId": ".? anonymous"
+                        },
+                        {
+                          "title": "Downloader",
+                          "rowId": ".? downloader"
+                        },
+                        {
+                          "title": "Tools",
+                          "rowId": ".? tools"
+                        },
+                        {
+                          "title": "Wattpadz",
+                          "rowId": ".? wattpadz"
+                        },
+                        {
+                          "title": "Anime",
+                          "rowId": ".? anime"
+                        },
+                        {
+                          "title": "Audio",
+                          "rowId": ".? audio"
+                        },
+                        {
+                          "title": "Database",
+                          "rowId": ".? database"
+                        },
+                        {
+                          "title": "Owner",
+                          "rowId": ".? owner"
+                        },
+                        {
+                          "title": "Jadian",
+                          "rowId": ".? jadian"
+                        },
+                        {
+                          "title": "Tanpa Kategori",
+                          "rowId": ".? noktg"
+                        }
+                      ]
+                    }
+                  ],
+                  "footerText": "Della."
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1664641258",
+        "status": "PENDING",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "9C8BC79E2D5DF4011ACE590447299676"
+        },
+        "message": {
+          "conversation": ".loli"
+        },
+        "messageTimestamp": "1664641265",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE531DA7A372867"
+        },
+        "message": {
+          "viewOnceMessage": {
+            "message": {
+              "messageContextInfo": {
+                "deviceListMetadata": {},
+                "deviceListMetadataVersion": 2
+              },
+              "buttonsMessage": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/d/f/As9KD35NCK_ERNRLrlpUOKOiVcL52lRCg4n_-xdI_awY.enc",
+                  "mimetype": "image/jpeg",
+                  "caption": "Ini lolinya kak",
+                  "fileSha256": "6odUsmgDL9/KmYOjOUxHAM5Xh0demLqGX7mW8JmQUCU=",
+                  "fileLength": "56764",
+                  "height": 564,
+                  "width": 564,
+                  "mediaKey": "9Xnw6Gg1E4L1mWb4L08S6+duRR7g9UqGptmKP+maKzk=",
+                  "fileEncSha256": "skRBntCzBZ4/iWZaDA/SzeMgoZHvXYIzOaH1dTDgdQk=",
+                  "directPath": "/v/t62.7118-24/31859948_1099772213980103_7290705001505646326_n.enc?ccb=11-4&oh=01_AVxVIQtZ_B8z-NAeghSRN0N79cixYe3gBdMSHrix-hZEAA&oe=635F6882",
+                  "mediaKeyTimestamp": "1664641267",
+                  "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2MBERISGBUYLxoaL2NCOEJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY//AABEIACAAIAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AO6nm8oVMnYqMbmdNKkqMxUlerYGeDWTdzdJosC4MUsSscBlG4N6/Wqu0yOW6bLfHpxV3MzN1NgZSQpBCjJI4P8AnFZzeptS2GpPGoggCMXZs/dIwc9j9M/gOaSa0Hyu7bZewvmB2xvxgf1rRmfQhe8RUIEimTGQBzj2qOY0jSk3toTTxxyHcy7zjAGePyzVNpuxkm0QSRkISJCAMbMfwNjHFBondpWKZma2RIZGV3IxuPt0/Hv9TUNtI25FL3ktATSTINy3RDYHBTocc+lNQv1G8VbSxcid2jXZ8xJxlsDNUkYyiosZevGCkkp8vYxCc9fypTWzIhd3URxgjCguC+Bxn5s8f4f1qkktWRdye5NGAMh1PHJxyBzwPrU6OWmxT8j/AP/Z"
+                },
+                "contentText": "Ini lolinya kak",
+                "footerText": "Della.",
+                "contextInfo": {
+                  "stanzaId": "9C8BC79E2D5DF4011ACE590447299676",
+                  "participant": "6281224863098@s.whatsapp.net",
+                  "quotedMessage": {
+                    "conversation": ".loli"
+                  }
+                },
+                "buttons": [
+                  {
+                    "buttonId": ".loli",
+                    "buttonText": {
+                      "displayText": "Loli"
+                    },
+                    "type": "RESPONSE"
+                  }
+                ],
+                "headerType": "IMAGE"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1664641267",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "37EAE54ADB2A6673A505E439A84342E7"
+        },
+        "message": {
+          "conversation": ".shutdown"
+        },
+        "messageTimestamp": "1664641290",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "BAE5FBAB85ECEAE3"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "_Shuttind down._"
+          }
+        },
+        "messageTimestamp": "1664641290",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "DE4B7A5E1A79812E2BBC9A60719B58CE"
+        },
+        "message": {
+          "conversation": ".menu"
+        },
+        "messageTimestamp": "1664641295",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5250D570D7006",
+          "participant": "6283119680420@s.whatsapp.net"
+        },
+        "message": {
+          "viewOnceMessage": {
+            "message": {
+              "messageContextInfo": {
+                "deviceListMetadata": {},
+                "deviceListMetadataVersion": 2
+              },
+              "listMessage": {
+                "title": "```Selamat malam Dellas```\n*Sabtu - 1 Oktober 2022*\n",
+                "description": "Sekarang Jam 16.21.35",
+                "buttonText": "Click",
+                "listType": "SINGLE_SELECT",
+                "sections": [
+                  {
+                    "title": "List Featured",
+                    "rows": [
+                      {
+                        "title": "All",
+                        "rowId": ".? all"
+                      },
+                      {
+                        "title": "Games",
+                        "rowId": ".? game"
+                      },
+                      {
+                        "title": "RPG Games",
+                        "rowId": ".? rpg"
+                      },
+                      {
+                        "title": "Exp & Limit",
+                        "rowId": ".? xp"
+                      },
+                      {
+                        "title": "Stickers",
+                        "rowId": ".? sticker"
+                      },
+                      {
+                        "title": "Kerang Ajaib",
+                        "rowId": ".? kerang"
+                      },
+                      {
+                        "title": "Primbon Jawa",
+                        "rowId": ".? primbon"
+                      },
+                      {
+                        "title": "Text Maker",
+                        "rowId": ".? textmaker"
+                      },
+                      {
+                        "title": "Image Maker",
+                        "rowId": ".? imagemaker"
+                      },
+                      {
+                        "title": "Groups",
+                        "rowId": ".? group"
+                      },
+                      {
+                        "title": "Premium",
+                        "rowId": ".? premium"
+                      },
+                      {
+                        "title": "Internet",
+                        "rowId": ".? internet"
+                      },
+                      {
+                        "title": "Anonymous Chat",
+                        "rowId": ".? anonymous"
+                      },
+                      {
+                        "title": "Downloader",
+                        "rowId": ".? downloader"
+                      },
+                      {
+                        "title": "Tools",
+                        "rowId": ".? tools"
+                      },
+                      {
+                        "title": "Wattpadz",
+                        "rowId": ".? wattpadz"
+                      },
+                      {
+                        "title": "Anime",
+                        "rowId": ".? anime"
+                      },
+                      {
+                        "title": "Audio",
+                        "rowId": ".? audio"
+                      },
+                      {
+                        "title": "Database",
+                        "rowId": ".? database"
+                      },
+                      {
+                        "title": "Owner",
+                        "rowId": ".? owner"
+                      },
+                      {
+                        "title": "Jadian",
+                        "rowId": ".? jadian"
+                      },
+                      {
+                        "title": "Tanpa Kategori",
+                        "rowId": ".? noktg"
+                      }
+                    ]
+                  }
+                ],
+                "footerText": "Della."
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1664641295",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "02ADB7029B7BF32668011E7A1BDFD68E"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".? downloader",
+            "contextInfo": {
+              "stanzaId": "BAE5250D570D7006",
+              "participant": "6283119680420@s.whatsapp.net",
+              "quotedMessage": {
+                "listMessage": {
+                  "title": "```Selamat malam Dellas```\n*Sabtu - 1 Oktober 2022*\n",
+                  "description": "Sekarang Jam 16.21.35",
+                  "buttonText": "Click",
+                  "listType": "SINGLE_SELECT",
+                  "sections": [
+                    {
+                      "title": "List Featured",
+                      "rows": [
+                        {
+                          "title": "All",
+                          "rowId": ".? all"
+                        },
+                        {
+                          "title": "Games",
+                          "rowId": ".? game"
+                        },
+                        {
+                          "title": "RPG Games",
+                          "rowId": ".? rpg"
+                        },
+                        {
+                          "title": "Exp & Limit",
+                          "rowId": ".? xp"
+                        },
+                        {
+                          "title": "Stickers",
+                          "rowId": ".? sticker"
+                        },
+                        {
+                          "title": "Kerang Ajaib",
+                          "rowId": ".? kerang"
+                        },
+                        {
+                          "title": "Primbon Jawa",
+                          "rowId": ".? primbon"
+                        },
+                        {
+                          "title": "Text Maker",
+                          "rowId": ".? textmaker"
+                        },
+                        {
+                          "title": "Image Maker",
+                          "rowId": ".? imagemaker"
+                        },
+                        {
+                          "title": "Groups",
+                          "rowId": ".? group"
+                        },
+                        {
+                          "title": "Premium",
+                          "rowId": ".? premium"
+                        },
+                        {
+                          "title": "Internet",
+                          "rowId": ".? internet"
+                        },
+                        {
+                          "title": "Anonymous Chat",
+                          "rowId": ".? anonymous"
+                        },
+                        {
+                          "title": "Downloader",
+                          "rowId": ".? downloader"
+                        },
+                        {
+                          "title": "Tools",
+                          "rowId": ".? tools"
+                        },
+                        {
+                          "title": "Wattpadz",
+                          "rowId": ".? wattpadz"
+                        },
+                        {
+                          "title": "Anime",
+                          "rowId": ".? anime"
+                        },
+                        {
+                          "title": "Audio",
+                          "rowId": ".? audio"
+                        },
+                        {
+                          "title": "Database",
+                          "rowId": ".? database"
+                        },
+                        {
+                          "title": "Owner",
+                          "rowId": ".? owner"
+                        },
+                        {
+                          "title": "Jadian",
+                          "rowId": ".? jadian"
+                        },
+                        {
+                          "title": "Tanpa Kategori",
+                          "rowId": ".? noktg"
+                        }
+                      ]
+                    }
+                  ],
+                  "footerText": "Della."
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1664641302",
+        "status": "PENDING",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5193C5E68194A"
+        },
+        "message": {
+          "protocolMessage": {
+            "key": {
+              "remoteJid": "6281224863098@s.whatsapp.net",
+              "fromMe": true,
+              "id": "BAE5D1BA2E5BC3F7",
+              "participant": "6283119680420@s.whatsapp.net"
+            },
+            "type": "REVOKE"
+          }
+        },
+        "messageTimestamp": "1664641312",
+        "status": "DELIVERY_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "90D627502166A3DA22A6CC24814F594D"
+        },
+        "message": {
+          "conversation": ".play sikok bagi duo"
+        },
+        "messageTimestamp": "1664641320",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5F7097C23B169",
+          "participant": "6283119680420@s.whatsapp.net"
+        },
+        "message": {
+          "viewOnceMessage": {
+            "message": {
+              "messageContextInfo": {
+                "deviceListMetadata": {},
+                "deviceListMetadataVersion": 2
+              },
+              "buttonsMessage": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/d/f/Ak_tqIOax1vTq2oUmGSxqm8lU-QSRXwbJE8k-hSmBQOi.enc",
+                  "mimetype": "image/jpeg",
+                  "caption": "𓅜 *Y T  P L A Y* 𓅜\n\n*t i t l e*: DJ SIKOK BAGI DUO REMIX VIRAL TIKTOK TERBARU 2022 JEDAG JEDUG FULL BASS DJ CAMPURAN\n*s o u r c e*: https://youtu.be/f7uNZxzR5dA\n*p u b l i s h e d*: 1 day ago\n*v i e w s*: 8.3K views\n*d u r a t i o n*: 47:48\n*c h a n n e l*: DJ BRUNO TEAM",
+                  "fileSha256": "Mcgya1USsYkyS3VQWCf4BmYbBC/NCD87AchPW1d/vk0=",
+                  "fileLength": "45737",
+                  "height": 360,
+                  "width": 480,
+                  "mediaKey": "vvZDAV1RJozhpOQ+XKVQiX9HNPROuy6RSssKeSxuaf4=",
+                  "fileEncSha256": "tqgWosRsYNP5GcPmGWepk53jGpSIAqjnXsrOBKX5OKw=",
+                  "directPath": "/v/t62.7118-24/32050701_836881034330723_5753707220059763126_n.enc?ccb=11-4&oh=01_AVzgKGpcRQqrR23ZFuMuiV66LdDhrsSA3fQ0FvABX4rxhQ&oe=635C7538",
+                  "mediaKeyTimestamp": "1664641323",
+                  "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2MBERISGBUYLxoaL2NCOEJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY//AABEIABgAIAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOKs7MXM4jkkEIIJDFSexIGBzzjFWoNk82ticaWhS8bzmUQZ8slMCQDPrhhnHGFPvtHNJxa3QcyTtfUWDSY5pVUX8JTDF3VH+THThgCc8dMnGeOMUKLYOcVuyPU9MawuTGGd4zgq7JtLDA5xk4+h59QDkBum1a4udXa7GtpU1tMHimQFv3ccTKNqrycs3bpxk8AEmuhTV1rogo0oO6mSedBbi0+0xSHTnlCXJLFPMBHB4+YgHLEDjhc8kUV9EktjKEIqbs9dPy6f12Fvp4rXXp102IpZwq0ABkco5B3OFJ6fe6dO/Oaile7RVSySbKepTiRDFM3mThhiRWJCpt4A54zk5B6YA45FObvLUmKsvP1KNjcWEUBS7S7csW3CGRUGMfKOQerdfQetY8xty3dy7DqGkQGTME9zH8xRJEVT94bctk/w5zx1xwea0VW26RPIr3Ld1rGhzhEWG/jVmLyuSrMWYNk44z82zknkbunde2drWQSgnZGVd30D2iJA1x5uQG8wDbjYucY5+9u/DHeh1pNWYlSinc//2Q=="
+                },
+                "contentText": "𓅜 *Y T  P L A Y* 𓅜\n\n*t i t l e*: DJ SIKOK BAGI DUO REMIX VIRAL TIKTOK TERBARU 2022 JEDAG JEDUG FULL BASS DJ CAMPURAN\n*s o u r c e*: https://youtu.be/f7uNZxzR5dA\n*p u b l i s h e d*: 1 day ago\n*v i e w s*: 8.3K views\n*d u r a t i o n*: 47:48\n*c h a n n e l*: DJ BRUNO TEAM",
+                "footerText": "𓅜 *y t  p l a y* 𓅜",
+                "contextInfo": {
+                  "stanzaId": "90D627502166A3DA22A6CC24814F594D",
+                  "participant": "6281224863098@s.whatsapp.net",
+                  "quotedMessage": {
+                    "conversation": ".play sikok bagi duo"
+                  }
+                },
+                "buttons": [
+                  {
+                    "buttonId": ".download https://youtu.be/f7uNZxzR5dA mp3",
+                    "buttonText": {
+                      "displayText": "audio"
+                    },
+                    "type": "RESPONSE"
+                  },
+                  {
+                    "buttonId": ".download https://youtu.be/f7uNZxzR5dA mp4",
+                    "buttonText": {
+                      "displayText": "video"
+                    },
+                    "type": "RESPONSE"
+                  }
+                ],
+                "headerType": "IMAGE"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1664641323",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5DEB5B5A148FD"
+        },
+        "message": {
+          "protocolMessage": {
+            "key": {
+              "remoteJid": "6281224863098@s.whatsapp.net",
+              "fromMe": true,
+              "id": "BAE5250D570D7006",
+              "participant": "6283119680420@s.whatsapp.net"
+            },
+            "type": "REVOKE"
+          }
+        },
+        "messageTimestamp": "1664641355",
+        "status": "DELIVERY_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE553EE5A364A9A"
+        },
+        "message": {
+          "protocolMessage": {
+            "key": {
+              "remoteJid": "6281224863098@s.whatsapp.net",
+              "fromMe": true,
+              "id": "BAE5F7097C23B169",
+              "participant": "6283119680420@s.whatsapp.net"
+            },
+            "type": "REVOKE"
+          }
+        },
+        "messageTimestamp": "1664641383",
+        "status": "DELIVERY_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "DDFF0F20B98F48BF01C9A0E6A38EBD9D"
+        },
+        "message": {
+          "conversation": ".menu"
+        },
+        "messageTimestamp": "1664641405",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE59F09A16F766D"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Selamat, Dellas telah naik level!\n• 🧬Level Sebelumnya : 1\n• 🧬Level Baru : 2\n• 🧬Role Kamu : Warrior V\ngunakan *.inventory* untuk mengecek",
+            "contextInfo": {
+              "stanzaId": "DDFF0F20B98F48BF01C9A0E6A38EBD9D",
+              "participant": "6281224863098@s.whatsapp.net",
+              "quotedMessage": {
+                "conversation": ".menu"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1664641406",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5D2B41C55E5DB",
+          "participant": "6283119680420@s.whatsapp.net"
+        },
+        "message": {
+          "viewOnceMessage": {
+            "message": {
+              "messageContextInfo": {
+                "deviceListMetadata": {},
+                "deviceListMetadataVersion": 2
+              },
+              "listMessage": {
+                "title": "```Selamat malam Dellas```\n*Sabtu - 1 Oktober 2022*\n",
+                "description": "Sekarang Jam 16.23.26",
+                "buttonText": "Click",
+                "listType": "SINGLE_SELECT",
+                "sections": [
+                  {
+                    "title": "List Featured",
+                    "rows": [
+                      {
+                        "title": "All",
+                        "rowId": ".? all"
+                      },
+                      {
+                        "title": "Games",
+                        "rowId": ".? game"
+                      },
+                      {
+                        "title": "RPG Games",
+                        "rowId": ".? rpg"
+                      },
+                      {
+                        "title": "Exp & Limit",
+                        "rowId": ".? xp"
+                      },
+                      {
+                        "title": "Stickers",
+                        "rowId": ".? sticker"
+                      },
+                      {
+                        "title": "Kerang Ajaib",
+                        "rowId": ".? kerang"
+                      },
+                      {
+                        "title": "Primbon Jawa",
+                        "rowId": ".? primbon"
+                      },
+                      {
+                        "title": "Text Maker",
+                        "rowId": ".? textmaker"
+                      },
+                      {
+                        "title": "Image Maker",
+                        "rowId": ".? imagemaker"
+                      },
+                      {
+                        "title": "Groups",
+                        "rowId": ".? group"
+                      },
+                      {
+                        "title": "Premium",
+                        "rowId": ".? premium"
+                      },
+                      {
+                        "title": "Internet",
+                        "rowId": ".? internet"
+                      },
+                      {
+                        "title": "Anonymous Chat",
+                        "rowId": ".? anonymous"
+                      },
+                      {
+                        "title": "Downloader",
+                        "rowId": ".? downloader"
+                      },
+                      {
+                        "title": "Tools",
+                        "rowId": ".? tools"
+                      },
+                      {
+                        "title": "Wattpadz",
+                        "rowId": ".? wattpadz"
+                      },
+                      {
+                        "title": "Anime",
+                        "rowId": ".? anime"
+                      },
+                      {
+                        "title": "Audio",
+                        "rowId": ".? audio"
+                      },
+                      {
+                        "title": "Database",
+                        "rowId": ".? database"
+                      },
+                      {
+                        "title": "Owner",
+                        "rowId": ".? owner"
+                      },
+                      {
+                        "title": "Jadian",
+                        "rowId": ".? jadian"
+                      },
+                      {
+                        "title": "Tanpa Kategori",
+                        "rowId": ".? noktg"
+                      }
+                    ]
+                  }
+                ],
+                "footerText": "Della."
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1664641406",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "60494373B51CF21E34064B024CC511A3"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".? imagemaker",
+            "contextInfo": {
+              "stanzaId": "BAE5D2B41C55E5DB",
+              "participant": "6283119680420@s.whatsapp.net",
+              "quotedMessage": {
+                "listMessage": {
+                  "title": "```Selamat malam Dellas```\n*Sabtu - 1 Oktober 2022*\n",
+                  "description": "Sekarang Jam 16.23.26",
+                  "buttonText": "Click",
+                  "listType": "SINGLE_SELECT",
+                  "sections": [
+                    {
+                      "title": "List Featured",
+                      "rows": [
+                        {
+                          "title": "All",
+                          "rowId": ".? all"
+                        },
+                        {
+                          "title": "Games",
+                          "rowId": ".? game"
+                        },
+                        {
+                          "title": "RPG Games",
+                          "rowId": ".? rpg"
+                        },
+                        {
+                          "title": "Exp & Limit",
+                          "rowId": ".? xp"
+                        },
+                        {
+                          "title": "Stickers",
+                          "rowId": ".? sticker"
+                        },
+                        {
+                          "title": "Kerang Ajaib",
+                          "rowId": ".? kerang"
+                        },
+                        {
+                          "title": "Primbon Jawa",
+                          "rowId": ".? primbon"
+                        },
+                        {
+                          "title": "Text Maker",
+                          "rowId": ".? textmaker"
+                        },
+                        {
+                          "title": "Image Maker",
+                          "rowId": ".? imagemaker"
+                        },
+                        {
+                          "title": "Groups",
+                          "rowId": ".? group"
+                        },
+                        {
+                          "title": "Premium",
+                          "rowId": ".? premium"
+                        },
+                        {
+                          "title": "Internet",
+                          "rowId": ".? internet"
+                        },
+                        {
+                          "title": "Anonymous Chat",
+                          "rowId": ".? anonymous"
+                        },
+                        {
+                          "title": "Downloader",
+                          "rowId": ".? downloader"
+                        },
+                        {
+                          "title": "Tools",
+                          "rowId": ".? tools"
+                        },
+                        {
+                          "title": "Wattpadz",
+                          "rowId": ".? wattpadz"
+                        },
+                        {
+                          "title": "Anime",
+                          "rowId": ".? anime"
+                        },
+                        {
+                          "title": "Audio",
+                          "rowId": ".? audio"
+                        },
+                        {
+                          "title": "Database",
+                          "rowId": ".? database"
+                        },
+                        {
+                          "title": "Owner",
+                          "rowId": ".? owner"
+                        },
+                        {
+                          "title": "Jadian",
+                          "rowId": ".? jadian"
+                        },
+                        {
+                          "title": "Tanpa Kategori",
+                          "rowId": ".? noktg"
+                        }
+                      ]
+                    }
+                  ],
+                  "footerText": "Della."
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1664641414",
+        "status": "PENDING",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "86BD65284393D135824F163E1537CAB7"
+        },
+        "message": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/d/f/As9KD35NCK_ERNRLrlpUOKOiVcL52lRCg4n_-xdI_awY.enc",
+            "mimetype": "image/jpeg",
+            "fileSha256": "6odUsmgDL9/KmYOjOUxHAM5Xh0demLqGX7mW8JmQUCU=",
+            "fileLength": "56764",
+            "height": 564,
+            "width": 564,
+            "mediaKey": "9Xnw6Gg1E4L1mWb4L08S6+duRR7g9UqGptmKP+maKzk=",
+            "fileEncSha256": "skRBntCzBZ4/iWZaDA/SzeMgoZHvXYIzOaH1dTDgdQk=",
+            "directPath": "/v/t62.7118-24/31859948_1099772213980103_7290705001505646326_n.enc?ccb=11-4&oh=01_AVxVIQtZ_B8z-NAeghSRN0N79cixYe3gBdMSHrix-hZEAA&oe=635F6882",
+            "mediaKeyTimestamp": "1664641267",
+            "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2MBERISGBUYLxoaL2NCOEJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY//AABEIACAAIAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AO6nm8oVMnYqMbmdNKkqMxUlerYGeDWTdzdJosC4MUsSscBlG4N6/Wqu0yOW6bLfHpxV3MzN1NgZSQpBCjJI4P8AnFZzeptS2GpPGoggCMXZs/dIwc9j9M/gOaSa0Hyu7bZewvmB2xvxgf1rRmfQhe8RUIEimTGQBzj2qOY0jSk3toTTxxyHcy7zjAGePyzVNpuxkm0QSRkISJCAMbMfwNjHFBondpWKZma2RIZGV3IxuPt0/Hv9TUNtI25FL3ktATSTINy3RDYHBTocc+lNQv1G8VbSxcid2jXZ8xJxlsDNUkYyiosZevGCkkp8vYxCc9fypTWzIhd3URxgjCguC+Bxn5s8f4f1qkktWRdye5NGAMh1PHJxyBzwPrU6OWmxT8j/AP/Z"
+          }
+        },
+        "messageTimestamp": "1664641428",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "3F84E57632EF945B6F397C9A18592DF5"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".xnxx",
+            "previewType": "NONE",
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1664641432",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5A3EAE5775EDE"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "server error",
+            "contextInfo": {
+              "stanzaId": "3F84E57632EF945B6F397C9A18592DF5",
+              "participant": "6281224863098@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": ".xnxx",
+                  "previewType": "NONE",
+                  "inviteLinkGroupTypeV2": "DEFAULT"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1664641463",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE53FF9E39ACCA8"
+        },
+        "message": {
+          "protocolMessage": {
+            "key": {
+              "remoteJid": "6281224863098@s.whatsapp.net",
+              "fromMe": true,
+              "id": "BAE5D2B41C55E5DB",
+              "participant": "6283119680420@s.whatsapp.net"
+            },
+            "type": "REVOKE"
+          }
+        },
+        "messageTimestamp": "1664641466",
+        "status": "DELIVERY_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "82FFDCE9FA19B1C9891CD7B30682A712"
+        },
+        "message": {
+          "conversation": ".toonme"
+        },
+        "messageTimestamp": "1664641470",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "E4AE5ACAB0F29C75EFEEB613A925785D"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".gta",
+            "previewType": "NONE",
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1664641496",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5AA0D52B6AC59"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "server error",
+            "contextInfo": {
+              "stanzaId": "E4AE5ACAB0F29C75EFEEB613A925785D",
+              "participant": "6281224863098@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": ".gta",
+                  "previewType": "NONE",
+                  "inviteLinkGroupTypeV2": "DEFAULT"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1664641497",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "63BA90634822822773DDB998D81A7E22"
+        },
+        "message": {
+          "conversation": ".menu"
+        },
+        "messageTimestamp": "1664641506",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5BCC4C2396207",
+          "participant": "6283119680420@s.whatsapp.net"
+        },
+        "message": {
+          "viewOnceMessage": {
+            "message": {
+              "messageContextInfo": {
+                "deviceListMetadata": {},
+                "deviceListMetadataVersion": 2
+              },
+              "listMessage": {
+                "title": "```Selamat malam Dellas```\n*Sabtu - 1 Oktober 2022*\n",
+                "description": "Sekarang Jam 16.25.06",
+                "buttonText": "Click",
+                "listType": "SINGLE_SELECT",
+                "sections": [
+                  {
+                    "title": "List Featured",
+                    "rows": [
+                      {
+                        "title": "All",
+                        "rowId": ".? all"
+                      },
+                      {
+                        "title": "Games",
+                        "rowId": ".? game"
+                      },
+                      {
+                        "title": "RPG Games",
+                        "rowId": ".? rpg"
+                      },
+                      {
+                        "title": "Exp & Limit",
+                        "rowId": ".? xp"
+                      },
+                      {
+                        "title": "Stickers",
+                        "rowId": ".? sticker"
+                      },
+                      {
+                        "title": "Kerang Ajaib",
+                        "rowId": ".? kerang"
+                      },
+                      {
+                        "title": "Primbon Jawa",
+                        "rowId": ".? primbon"
+                      },
+                      {
+                        "title": "Text Maker",
+                        "rowId": ".? textmaker"
+                      },
+                      {
+                        "title": "Image Maker",
+                        "rowId": ".? imagemaker"
+                      },
+                      {
+                        "title": "Groups",
+                        "rowId": ".? group"
+                      },
+                      {
+                        "title": "Premium",
+                        "rowId": ".? premium"
+                      },
+                      {
+                        "title": "Internet",
+                        "rowId": ".? internet"
+                      },
+                      {
+                        "title": "Anonymous Chat",
+                        "rowId": ".? anonymous"
+                      },
+                      {
+                        "title": "Downloader",
+                        "rowId": ".? downloader"
+                      },
+                      {
+                        "title": "Tools",
+                        "rowId": ".? tools"
+                      },
+                      {
+                        "title": "Wattpadz",
+                        "rowId": ".? wattpadz"
+                      },
+                      {
+                        "title": "Anime",
+                        "rowId": ".? anime"
+                      },
+                      {
+                        "title": "Audio",
+                        "rowId": ".? audio"
+                      },
+                      {
+                        "title": "Database",
+                        "rowId": ".? database"
+                      },
+                      {
+                        "title": "Owner",
+                        "rowId": ".? owner"
+                      },
+                      {
+                        "title": "Jadian",
+                        "rowId": ".? jadian"
+                      },
+                      {
+                        "title": "Tanpa Kategori",
+                        "rowId": ".? noktg"
+                      }
+                    ]
+                  }
+                ],
+                "footerText": "Della."
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1664641506",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "BBCAF28269885D02D2C1BFB1CF1FE2F9"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".? textmaker",
+            "contextInfo": {
+              "stanzaId": "BAE5BCC4C2396207",
+              "participant": "6283119680420@s.whatsapp.net",
+              "quotedMessage": {
+                "listMessage": {
+                  "title": "```Selamat malam Dellas```\n*Sabtu - 1 Oktober 2022*\n",
+                  "description": "Sekarang Jam 16.25.06",
+                  "buttonText": "Click",
+                  "listType": "SINGLE_SELECT",
+                  "sections": [
+                    {
+                      "title": "List Featured",
+                      "rows": [
+                        {
+                          "title": "All",
+                          "rowId": ".? all"
+                        },
+                        {
+                          "title": "Games",
+                          "rowId": ".? game"
+                        },
+                        {
+                          "title": "RPG Games",
+                          "rowId": ".? rpg"
+                        },
+                        {
+                          "title": "Exp & Limit",
+                          "rowId": ".? xp"
+                        },
+                        {
+                          "title": "Stickers",
+                          "rowId": ".? sticker"
+                        },
+                        {
+                          "title": "Kerang Ajaib",
+                          "rowId": ".? kerang"
+                        },
+                        {
+                          "title": "Primbon Jawa",
+                          "rowId": ".? primbon"
+                        },
+                        {
+                          "title": "Text Maker",
+                          "rowId": ".? textmaker"
+                        },
+                        {
+                          "title": "Image Maker",
+                          "rowId": ".? imagemaker"
+                        },
+                        {
+                          "title": "Groups",
+                          "rowId": ".? group"
+                        },
+                        {
+                          "title": "Premium",
+                          "rowId": ".? premium"
+                        },
+                        {
+                          "title": "Internet",
+                          "rowId": ".? internet"
+                        },
+                        {
+                          "title": "Anonymous Chat",
+                          "rowId": ".? anonymous"
+                        },
+                        {
+                          "title": "Downloader",
+                          "rowId": ".? downloader"
+                        },
+                        {
+                          "title": "Tools",
+                          "rowId": ".? tools"
+                        },
+                        {
+                          "title": "Wattpadz",
+                          "rowId": ".? wattpadz"
+                        },
+                        {
+                          "title": "Anime",
+                          "rowId": ".? anime"
+                        },
+                        {
+                          "title": "Audio",
+                          "rowId": ".? audio"
+                        },
+                        {
+                          "title": "Database",
+                          "rowId": ".? database"
+                        },
+                        {
+                          "title": "Owner",
+                          "rowId": ".? owner"
+                        },
+                        {
+                          "title": "Jadian",
+                          "rowId": ".? jadian"
+                        },
+                        {
+                          "title": "Tanpa Kategori",
+                          "rowId": ".? noktg"
+                        }
+                      ]
+                    }
+                  ],
+                  "footerText": "Della."
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1664641511",
+        "status": "PENDING",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "C5F8E5208EB9EFD56AD34AB507D0A9BA"
+        },
+        "message": {
+          "conversation": ".pabrik aoskwkwkw"
+        },
+        "messageTimestamp": "1664641522",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5506D32584103"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "tunggu sebentar",
+            "contextInfo": {
+              "stanzaId": "C5F8E5208EB9EFD56AD34AB507D0A9BA",
+              "participant": "6281224863098@s.whatsapp.net",
+              "quotedMessage": {
+                "conversation": ".pabrik aoskwkwkw"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1664641525",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5971B5C9C1454"
+        },
+        "message": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/d/f/AkmBJai5_g_JvnxIapzTa5v53HPshOB6KNTgm__-J5bk.enc",
+            "mimetype": "image/jpeg",
+            "caption": "nih bruh",
+            "fileSha256": "DKd/1t0BGWZiCazIQIuA7S+QdgnnAeJpVt9zX9N8u1U=",
+            "fileLength": "747238",
+            "height": 600,
+            "width": 900,
+            "mediaKey": "ysTf0LEtER5uvB9e2zGSJao5Ey32oOFFUKseug5Xz/8=",
+            "fileEncSha256": "gp1Kpebq+84tQjHgNnjj4YZrxju8NzMe1VQaOJXaOnM=",
+            "directPath": "/v/t62.7118-24/40354620_502367028043157_4444002149447406318_n.enc?ccb=11-4&oh=01_AVwCxeeaT_XbaQHjBdqbsv7M5nPfag6T0SRzCLMay4g-yg&oe=635DE659",
+            "mediaKeyTimestamp": "1664641526",
+            "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2MBERISGBUYLxoaL2NCOEJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY//AABEIABUAIAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/ALPQE+vvVmQoU9eTn9aAAg/e5B60AARgACOffvQBLJE5VvLYA9gVyP50CI1tnD7xIAemAvGOozk+/bFO4WYJBNtUvIGO4kkLjI54/l+VICRoWRcD7y/wjv8AjTCxZ6EgAD6UhiAYHqB7UABA8vp0Gf1oAQAH1G3jGeO1AH//2Q=="
+          }
+        },
+        "messageTimestamp": "1664641526",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "F5A9E9B1E087884CAD19F72C62AF5C2C"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".s",
+            "previewType": "NONE",
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1664641541",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE52F33AD5277D5"
+        },
+        "message": {
+          "documentMessage": {
+            "url": "https://mmg.whatsapp.net/d/f/AlmipdVyYvsxkxoznXNuw9fYuYHU_4R4q5tip9Wl2ltv.enc",
+            "mimetype": "application/octet-stream",
+            "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+            "fileLength": "0",
+            "mediaKey": "inDP0Xlq6cPL7mX1kMFT19BRthHsO50RpaORWUnyQeU=",
+            "fileName": "sticker.webp",
+            "fileEncSha256": "BH15oflf+kI7nlEKwI1UkMTXbX3Yj/UsLuiBA9VwLk8=",
+            "directPath": "/v/t62.7119-24/29031878_503941111550284_1642977364558741762_n.enc?ccb=11-4&oh=01_AVy5nuDpoJeSullQ56LvJ5deSm80D-bjq8jfOANVRvtqWw&oe=635D0BC4",
+            "mediaKeyTimestamp": "1664641543",
+            "contextInfo": {
+              "stanzaId": "F5A9E9B1E087884CAD19F72C62AF5C2C",
+              "participant": "6281224863098@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": ".s",
+                  "previewType": "NONE",
+                  "inviteLinkGroupTypeV2": "DEFAULT"
+                }
+              }
+            },
+            "caption": ""
+          }
+        },
+        "messageTimestamp": "1664641543",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "8ADE013B5C96DAF29B3F607DE9E26520"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".s",
+            "previewType": "NONE",
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1664641551",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE51077013AA39D"
+        },
+        "message": {
+          "documentMessage": {
+            "url": "https://mmg.whatsapp.net/d/f/At-CnxhKjhtb9eZcyn1GUM48zSa6eP8itEMAbErbaZed.enc",
+            "mimetype": "application/octet-stream",
+            "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+            "fileLength": "0",
+            "mediaKey": "7h5HIKq9cjItxOOsiVv86Sz/raOWTRNtXJXho6UQ7Y4=",
+            "fileName": "sticker.webp",
+            "fileEncSha256": "Wlfk9yaFpKb6qpdBoPpHz5HVtOGDSVMa2O1X2aIk5/A=",
+            "directPath": "/v/t62.7119-24/56114127_3204665566514656_6239688709478290802_n.enc?ccb=11-4&oh=01_AVxC2iZ85UJE-2lu_hmwEMmAXjAeqVWlqzdIvRx2SRIe2A&oe=635D8706",
+            "mediaKeyTimestamp": "1664641553",
+            "contextInfo": {
+              "stanzaId": "8ADE013B5C96DAF29B3F607DE9E26520",
+              "participant": "6281224863098@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": ".s",
+                  "previewType": "NONE",
+                  "inviteLinkGroupTypeV2": "DEFAULT"
+                }
+              }
+            },
+            "caption": ""
+          }
+        },
+        "messageTimestamp": "1664641553",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "E5786CE811C2E8E4BCFA58BF38921A74"
+        },
+        "message": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/d/f/As9KD35NCK_ERNRLrlpUOKOiVcL52lRCg4n_-xdI_awY.enc",
+            "mimetype": "image/jpeg",
+            "fileSha256": "6odUsmgDL9/KmYOjOUxHAM5Xh0demLqGX7mW8JmQUCU=",
+            "fileLength": "56764",
+            "height": 564,
+            "width": 564,
+            "mediaKey": "9Xnw6Gg1E4L1mWb4L08S6+duRR7g9UqGptmKP+maKzk=",
+            "fileEncSha256": "skRBntCzBZ4/iWZaDA/SzeMgoZHvXYIzOaH1dTDgdQk=",
+            "directPath": "/v/t62.7118-24/31859948_1099772213980103_7290705001505646326_n.enc?ccb=11-4&oh=01_AVxVIQtZ_B8z-NAeghSRN0N79cixYe3gBdMSHrix-hZEAA&oe=635F6882",
+            "mediaKeyTimestamp": "1664641267",
+            "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2MBERISGBUYLxoaL2NCOEJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY//AABEIACAAIAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AO6nm8oVMnYqMbmdNKkqMxUlerYGeDWTdzdJosC4MUsSscBlG4N6/Wqu0yOW6bLfHpxV3MzN1NgZSQpBCjJI4P8AnFZzeptS2GpPGoggCMXZs/dIwc9j9M/gOaSa0Hyu7bZewvmB2xvxgf1rRmfQhe8RUIEimTGQBzj2qOY0jSk3toTTxxyHcy7zjAGePyzVNpuxkm0QSRkISJCAMbMfwNjHFBondpWKZma2RIZGV3IxuPt0/Hv9TUNtI25FL3ktATSTINy3RDYHBTocc+lNQv1G8VbSxcid2jXZ8xJxlsDNUkYyiosZevGCkkp8vYxCc9fypTWzIhd3URxgjCguC+Bxn5s8f4f1qkktWRdye5NGAMh1PHJxyBzwPrU6OWmxT8j/AP/Z"
+          }
+        },
+        "messageTimestamp": "1664641561",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "946FD8291FCB4D4C7828C6E74EF0DA36"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".s",
+            "previewType": "NONE",
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1664641563",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE591A11B61C046"
+        },
+        "message": {
+          "documentMessage": {
+            "url": "https://mmg.whatsapp.net/d/f/AoeSJSjGQyebM9AzwpWHeuAXnrCGWchl5lNX60IwoEZ-.enc",
+            "mimetype": "application/octet-stream",
+            "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+            "fileLength": "0",
+            "mediaKey": "ld7QWX2Ja+Fy84QOhCoUG0fRf3zb+3YfE/6HdDfWjiM=",
+            "fileName": "sticker.webp",
+            "fileEncSha256": "MBOcapyiMIx1Aw5YoCf9zuW1FWNjg9cqWJz9Ktqu934=",
+            "directPath": "/v/t62.7119-24/13748863_180693891140209_4955634266278436833_n.enc?ccb=11-4&oh=01_AVzd7dqUGh9jC0dUyZxZeAXO_72uFZaayAdV92JfJR6kJg&oe=635C0AA0",
+            "mediaKeyTimestamp": "1664641564",
+            "contextInfo": {
+              "stanzaId": "946FD8291FCB4D4C7828C6E74EF0DA36",
+              "participant": "6281224863098@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": ".s",
+                  "previewType": "NONE",
+                  "inviteLinkGroupTypeV2": "DEFAULT"
+                }
+              }
+            },
+            "caption": ""
+          }
+        },
+        "messageTimestamp": "1664641564",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE533786AF4A672"
+        },
+        "message": {
+          "protocolMessage": {
+            "key": {
+              "remoteJid": "6281224863098@s.whatsapp.net",
+              "fromMe": true,
+              "id": "BAE5BCC4C2396207",
+              "participant": "6283119680420@s.whatsapp.net"
+            },
+            "type": "REVOKE"
+          }
+        },
+        "messageTimestamp": "1664641566",
+        "status": "DELIVERY_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE52CBCA3EBB8B4"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Successfully connected"
+          }
+        },
+        "messageTimestamp": "1664641691",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "027D34B72A9BB48F922106590838D10C"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".s",
+            "previewType": "NONE",
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1664641721",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5193A1C45ACB6"
+        },
+        "message": {
+          "documentMessage": {
+            "url": "https://mmg.whatsapp.net/d/f/Ahov5s80a3Alt7eh-uOBxOQj1VTcnMJ49wAyZUDdx9FF.enc",
+            "mimetype": "application/octet-stream",
+            "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+            "fileLength": "0",
+            "mediaKey": "DzFGZIBIXuOJq7FNa/p5f4OIWdiY73KQCU8tI3cq4DI=",
+            "fileName": "sticker.webp",
+            "fileEncSha256": "6OPFaxaiLE4/Ml7ySH3rZPfXNYb5zT+cUTaz0I1b88k=",
+            "directPath": "/v/t62.7119-24/29571539_474974131329735_2632760793362165429_n.enc?ccb=11-4&oh=01_AVz_MhmT1WePlluvSBy_SdqkcL2HMB_85cTWVEhuTyD8jw&oe=635EEC7B",
+            "mediaKeyTimestamp": "1664641723",
+            "contextInfo": {
+              "stanzaId": "027D34B72A9BB48F922106590838D10C",
+              "participant": "6281224863098@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": ".s",
+                  "previewType": "NONE",
+                  "inviteLinkGroupTypeV2": "DEFAULT"
+                }
+              }
+            },
+            "caption": ""
+          }
+        },
+        "messageTimestamp": "1664641723",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "0F7E39A052C52EAD203AB33A8310BCA5"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".menu",
+            "previewType": "NONE",
+            "contextInfo": {
+              "stanzaId": "E5786CE811C2E8E4BCFA58BF38921A74",
+              "participant": "6281224863098@s.whatsapp.net",
+              "quotedMessage": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/d/f/As9KD35NCK_ERNRLrlpUOKOiVcL52lRCg4n_-xdI_awY.enc",
+                  "mimetype": "image/jpeg",
+                  "fileSha256": "6odUsmgDL9/KmYOjOUxHAM5Xh0demLqGX7mW8JmQUCU=",
+                  "fileLength": "56764",
+                  "height": 564,
+                  "width": 564,
+                  "mediaKey": "9Xnw6Gg1E4L1mWb4L08S6+duRR7g9UqGptmKP+maKzk=",
+                  "fileEncSha256": "skRBntCzBZ4/iWZaDA/SzeMgoZHvXYIzOaH1dTDgdQk=",
+                  "directPath": "/v/t62.7118-24/31859948_1099772213980103_7290705001505646326_n.enc?ccb=11-4&oh=01_AVxVIQtZ_B8z-NAeghSRN0N79cixYe3gBdMSHrix-hZEAA&oe=635F6882",
+                  "mediaKeyTimestamp": "1664641267",
+                  "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2MBERISGBUYLxoaL2NCOEJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY//AABEIACAAIAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AO6nm8oVMnYqMbmdNKkqMxUlerYGeDWTdzdJosC4MUsSscBlG4N6/Wqu0yOW6bLfHpxV3MzN1NgZSQpBCjJI4P8AnFZzeptS2GpPGoggCMXZs/dIwc9j9M/gOaSa0Hyu7bZewvmB2xvxgf1rRmfQhe8RUIEimTGQBzj2qOY0jSk3toTTxxyHcy7zjAGePyzVNpuxkm0QSRkISJCAMbMfwNjHFBondpWKZma2RIZGV3IxuPt0/Hv9TUNtI25FL3ktATSTINy3RDYHBTocc+lNQv1G8VbSxcid2jXZ8xJxlsDNUkYyiosZevGCkkp8vYxCc9fypTWzIhd3URxgjCguC+Bxn5s8f4f1qkktWRdye5NGAMh1PHJxyBzwPrU6OWmxT8j/AP/Z"
+                }
+              }
+            },
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1664641763",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE58D63071F6D54"
+        },
+        "message": {
+          "viewOnceMessage": {
+            "message": {
+              "messageContextInfo": {
+                "deviceListMetadata": {},
+                "deviceListMetadataVersion": 2
+              },
+              "listMessage": {
+                "title": "```Selamat malam Dellas```\n*Sabtu - 1 Oktober 2022*\n",
+                "description": "Sekarang Jam 16.29.23",
+                "buttonText": "Click",
+                "listType": "SINGLE_SELECT",
+                "sections": [
+                  {
+                    "title": "List Featured",
+                    "rows": [
+                      {
+                        "title": "All",
+                        "rowId": ".? all"
+                      },
+                      {
+                        "title": "Games",
+                        "rowId": ".? game"
+                      },
+                      {
+                        "title": "RPG Games",
+                        "rowId": ".? rpg"
+                      },
+                      {
+                        "title": "Exp & Limit",
+                        "rowId": ".? xp"
+                      },
+                      {
+                        "title": "Stickers",
+                        "rowId": ".? sticker"
+                      },
+                      {
+                        "title": "Kerang Ajaib",
+                        "rowId": ".? kerang"
+                      },
+                      {
+                        "title": "Primbon Jawa",
+                        "rowId": ".? primbon"
+                      },
+                      {
+                        "title": "Text Maker",
+                        "rowId": ".? textmaker"
+                      },
+                      {
+                        "title": "Image Maker",
+                        "rowId": ".? imagemaker"
+                      },
+                      {
+                        "title": "Groups",
+                        "rowId": ".? group"
+                      },
+                      {
+                        "title": "Premium",
+                        "rowId": ".? premium"
+                      },
+                      {
+                        "title": "Internet",
+                        "rowId": ".? internet"
+                      },
+                      {
+                        "title": "Anonymous Chat",
+                        "rowId": ".? anonymous"
+                      },
+                      {
+                        "title": "Downloader",
+                        "rowId": ".? downloader"
+                      },
+                      {
+                        "title": "Tools",
+                        "rowId": ".? tools"
+                      },
+                      {
+                        "title": "Wattpadz",
+                        "rowId": ".? wattpadz"
+                      },
+                      {
+                        "title": "Anime",
+                        "rowId": ".? anime"
+                      },
+                      {
+                        "title": "Audio",
+                        "rowId": ".? audio"
+                      },
+                      {
+                        "title": "Database",
+                        "rowId": ".? database"
+                      },
+                      {
+                        "title": "Owner",
+                        "rowId": ".? owner"
+                      },
+                      {
+                        "title": "Jadian",
+                        "rowId": ".? jadian"
+                      },
+                      {
+                        "title": "Tanpa Kategori",
+                        "rowId": ".? noktg"
+                      }
+                    ]
+                  }
+                ],
+                "footerText": "Della."
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1664641763",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "B8EEA1BE1BC11AE450EA923CA06E8820"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".? sticker",
+            "contextInfo": {
+              "stanzaId": "BAE58D63071F6D54",
+              "participant": "6283119680420@s.whatsapp.net",
+              "quotedMessage": {
+                "listMessage": {
+                  "title": "```Selamat malam Dellas```\n*Sabtu - 1 Oktober 2022*\n",
+                  "description": "Sekarang Jam 16.29.23",
+                  "buttonText": "Click",
+                  "listType": "SINGLE_SELECT",
+                  "sections": [
+                    {
+                      "title": "List Featured",
+                      "rows": [
+                        {
+                          "title": "All",
+                          "rowId": ".? all"
+                        },
+                        {
+                          "title": "Games",
+                          "rowId": ".? game"
+                        },
+                        {
+                          "title": "RPG Games",
+                          "rowId": ".? rpg"
+                        },
+                        {
+                          "title": "Exp & Limit",
+                          "rowId": ".? xp"
+                        },
+                        {
+                          "title": "Stickers",
+                          "rowId": ".? sticker"
+                        },
+                        {
+                          "title": "Kerang Ajaib",
+                          "rowId": ".? kerang"
+                        },
+                        {
+                          "title": "Primbon Jawa",
+                          "rowId": ".? primbon"
+                        },
+                        {
+                          "title": "Text Maker",
+                          "rowId": ".? textmaker"
+                        },
+                        {
+                          "title": "Image Maker",
+                          "rowId": ".? imagemaker"
+                        },
+                        {
+                          "title": "Groups",
+                          "rowId": ".? group"
+                        },
+                        {
+                          "title": "Premium",
+                          "rowId": ".? premium"
+                        },
+                        {
+                          "title": "Internet",
+                          "rowId": ".? internet"
+                        },
+                        {
+                          "title": "Anonymous Chat",
+                          "rowId": ".? anonymous"
+                        },
+                        {
+                          "title": "Downloader",
+                          "rowId": ".? downloader"
+                        },
+                        {
+                          "title": "Tools",
+                          "rowId": ".? tools"
+                        },
+                        {
+                          "title": "Wattpadz",
+                          "rowId": ".? wattpadz"
+                        },
+                        {
+                          "title": "Anime",
+                          "rowId": ".? anime"
+                        },
+                        {
+                          "title": "Audio",
+                          "rowId": ".? audio"
+                        },
+                        {
+                          "title": "Database",
+                          "rowId": ".? database"
+                        },
+                        {
+                          "title": "Owner",
+                          "rowId": ".? owner"
+                        },
+                        {
+                          "title": "Jadian",
+                          "rowId": ".? jadian"
+                        },
+                        {
+                          "title": "Tanpa Kategori",
+                          "rowId": ".? noktg"
+                        }
+                      ]
+                    }
+                  ],
+                  "footerText": "Della."
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1664641767",
+        "status": "PENDING",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "84F1023CD3E166FC6F79B14624F25380"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".wm dellas",
+            "previewType": "NONE",
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1664641786",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE501433FB1F72A"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Conversion failed",
+            "contextInfo": {
+              "stanzaId": "84F1023CD3E166FC6F79B14624F25380",
+              "participant": "6281224863098@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": ".wm dellas",
+                  "previewType": "NONE",
+                  "inviteLinkGroupTypeV2": "DEFAULT"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1664641787",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "93A3D6FD368CE00621BAEE56031AFBBA"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".wm dellas | ksoso",
+            "previewType": "NONE",
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1664641803",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5CC400055710D"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Conversion failed",
+            "contextInfo": {
+              "stanzaId": "93A3D6FD368CE00621BAEE56031AFBBA",
+              "participant": "6281224863098@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": ".wm dellas | ksoso",
+                  "previewType": "NONE",
+                  "inviteLinkGroupTypeV2": "DEFAULT"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1664641803",
+        "status": "READ"
+      }
+    ],
+    "6283175385188-1589889287@g.us": [
+      {
+        "key": {
+          "remoteJid": "6283175385188-1589889287@g.us",
+          "fromMe": false,
+          "id": "DBB9E6800B35CBEF6FAF8B98E395BD5E",
+          "participant": "6281224863098@s.whatsapp.net"
+        },
+        "message": {
+          "conversation": ".menu"
+        },
+        "messageTimestamp": "1664641343",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6283175385188-1589889287@g.us",
+          "fromMe": true,
+          "id": "BAE5C9D230B0910D",
+          "participant": "6283119680420@s.whatsapp.net"
+        },
+        "message": {
+          "viewOnceMessage": {
+            "message": {
+              "messageContextInfo": {
+                "deviceListMetadata": {},
+                "deviceListMetadataVersion": 2
+              },
+              "listMessage": {
+                "title": "```Selamat malam Dellas```\n*Sabtu - 1 Oktober 2022*\n",
+                "description": "Sekarang Jam 16.22.24",
+                "buttonText": "Click",
+                "listType": "SINGLE_SELECT",
+                "sections": [
+                  {
+                    "title": "List Featured",
+                    "rows": [
+                      {
+                        "title": "All",
+                        "rowId": ".? all"
+                      },
+                      {
+                        "title": "Games",
+                        "rowId": ".? game"
+                      },
+                      {
+                        "title": "RPG Games",
+                        "rowId": ".? rpg"
+                      },
+                      {
+                        "title": "Exp & Limit",
+                        "rowId": ".? xp"
+                      },
+                      {
+                        "title": "Stickers",
+                        "rowId": ".? sticker"
+                      },
+                      {
+                        "title": "Kerang Ajaib",
+                        "rowId": ".? kerang"
+                      },
+                      {
+                        "title": "Primbon Jawa",
+                        "rowId": ".? primbon"
+                      },
+                      {
+                        "title": "Text Maker",
+                        "rowId": ".? textmaker"
+                      },
+                      {
+                        "title": "Image Maker",
+                        "rowId": ".? imagemaker"
+                      },
+                      {
+                        "title": "Groups",
+                        "rowId": ".? group"
+                      },
+                      {
+                        "title": "Premium",
+                        "rowId": ".? premium"
+                      },
+                      {
+                        "title": "Internet",
+                        "rowId": ".? internet"
+                      },
+                      {
+                        "title": "Anonymous Chat",
+                        "rowId": ".? anonymous"
+                      },
+                      {
+                        "title": "Downloader",
+                        "rowId": ".? downloader"
+                      },
+                      {
+                        "title": "Tools",
+                        "rowId": ".? tools"
+                      },
+                      {
+                        "title": "Wattpadz",
+                        "rowId": ".? wattpadz"
+                      },
+                      {
+                        "title": "Anime",
+                        "rowId": ".? anime"
+                      },
+                      {
+                        "title": "Audio",
+                        "rowId": ".? audio"
+                      },
+                      {
+                        "title": "Database",
+                        "rowId": ".? database"
+                      },
+                      {
+                        "title": "Owner",
+                        "rowId": ".? owner"
+                      },
+                      {
+                        "title": "Jadian",
+                        "rowId": ".? jadian"
+                      },
+                      {
+                        "title": "Tanpa Kategori",
+                        "rowId": ".? noktg"
+                      }
+                    ]
+                  }
+                ],
+                "footerText": "Della."
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1664641344",
+        "status": "PENDING",
+        "participant": "6283119680420:3@s.whatsapp.net",
+        "userReceipt": [
+          {
+            "userJid": "6281224863098@s.whatsapp.net",
+            "readTimestamp": "1664641349"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6283175385188-1589889287@g.us",
+          "fromMe": false,
+          "id": "2DC705A3890E3D7255B080CCBE784CA3",
+          "participant": "6281224863098@s.whatsapp.net"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".? xp",
+            "contextInfo": {
+              "stanzaId": "BAE5C9D230B0910D",
+              "participant": "6283119680420@s.whatsapp.net",
+              "quotedMessage": {
+                "listMessage": {
+                  "title": "```Selamat malam Dellas```\n*Sabtu - 1 Oktober 2022*\n",
+                  "description": "Sekarang Jam 16.22.24",
+                  "buttonText": "Click",
+                  "listType": "SINGLE_SELECT",
+                  "sections": [
+                    {
+                      "title": "List Featured",
+                      "rows": [
+                        {
+                          "title": "All",
+                          "rowId": ".? all"
+                        },
+                        {
+                          "title": "Games",
+                          "rowId": ".? game"
+                        },
+                        {
+                          "title": "RPG Games",
+                          "rowId": ".? rpg"
+                        },
+                        {
+                          "title": "Exp & Limit",
+                          "rowId": ".? xp"
+                        },
+                        {
+                          "title": "Stickers",
+                          "rowId": ".? sticker"
+                        },
+                        {
+                          "title": "Kerang Ajaib",
+                          "rowId": ".? kerang"
+                        },
+                        {
+                          "title": "Primbon Jawa",
+                          "rowId": ".? primbon"
+                        },
+                        {
+                          "title": "Text Maker",
+                          "rowId": ".? textmaker"
+                        },
+                        {
+                          "title": "Image Maker",
+                          "rowId": ".? imagemaker"
+                        },
+                        {
+                          "title": "Groups",
+                          "rowId": ".? group"
+                        },
+                        {
+                          "title": "Premium",
+                          "rowId": ".? premium"
+                        },
+                        {
+                          "title": "Internet",
+                          "rowId": ".? internet"
+                        },
+                        {
+                          "title": "Anonymous Chat",
+                          "rowId": ".? anonymous"
+                        },
+                        {
+                          "title": "Downloader",
+                          "rowId": ".? downloader"
+                        },
+                        {
+                          "title": "Tools",
+                          "rowId": ".? tools"
+                        },
+                        {
+                          "title": "Wattpadz",
+                          "rowId": ".? wattpadz"
+                        },
+                        {
+                          "title": "Anime",
+                          "rowId": ".? anime"
+                        },
+                        {
+                          "title": "Audio",
+                          "rowId": ".? audio"
+                        },
+                        {
+                          "title": "Database",
+                          "rowId": ".? database"
+                        },
+                        {
+                          "title": "Owner",
+                          "rowId": ".? owner"
+                        },
+                        {
+                          "title": "Jadian",
+                          "rowId": ".? jadian"
+                        },
+                        {
+                          "title": "Tanpa Kategori",
+                          "rowId": ".? noktg"
+                        }
+                      ]
+                    }
+                  ],
+                  "footerText": "Della."
+                }
+              },
+              "remoteJid": "6283175385188-1589889287@g.us"
+            }
+          }
+        },
+        "messageTimestamp": "1664641359",
+        "status": "PENDING",
+        "participant": "6281224863098@s.whatsapp.net",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6283175385188-1589889287@g.us",
+          "fromMe": false,
+          "id": "484235CB1CC7C5294B459CB3ABD3164C",
+          "participant": "6281224863098@s.whatsapp.net"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "/donasi"
+          }
+        },
+        "messageTimestamp": "1664641381",
+        "status": "PENDING",
+        "participant": "6281224863098@s.whatsapp.net",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6283175385188-1589889287@g.us",
+          "fromMe": true,
+          "id": "BAE5BE5A497DA2AE"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "╭─「 Donasi 」\n│ Gada yang bakal donasi gw kosongin aja\n╰────",
+            "contextInfo": {
+              "stanzaId": "484235CB1CC7C5294B459CB3ABD3164C",
+              "participant": "6281224863098@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": "/donasi"
+                }
+              },
+              "remoteJid": "6283175385188-1589889287@g.us"
+            }
+          }
+        },
+        "messageTimestamp": "1664641381",
+        "status": "PENDING",
+        "participant": "6283119680420:3@s.whatsapp.net",
+        "userReceipt": [
+          {
+            "userJid": "6281224863098@s.whatsapp.net",
+            "readTimestamp": "1664641383"
+          },
+          {
+            "userJid": "6288221789219@s.whatsapp.net",
+            "receiptTimestamp": "1664641386"
+          },
+          {
+            "userJid": "6281215113248@s.whatsapp.net",
+            "receiptTimestamp": "1664641390"
+          },
+          {
+            "userJid": "6283801192534@s.whatsapp.net",
+            "readTimestamp": "1664641393"
+          },
+          {
+            "userJid": "6281351492331@s.whatsapp.net",
+            "receiptTimestamp": "1664641398"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6283175385188-1589889287@g.us",
+          "fromMe": false,
+          "id": "390FB4E39649575C231C9FE029BC4A0C",
+          "participant": "6281224863098@s.whatsapp.net"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "/owner"
+          }
+        },
+        "messageTimestamp": "1664641385",
+        "status": "PENDING",
+        "participant": "6281224863098@s.whatsapp.net",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6283175385188-1589889287@g.us",
+          "fromMe": true,
+          "id": "BAE55812CC1F4198"
+        },
+        "message": {
+          "contactMessage": {
+            "displayName": "Della.",
+            "vcard": "BEGIN:VCARD\nVERSION:3.0\nN:;Della.;;;\nFN:Della.\nTEL;type=CELL;type=VOICE;waid=6281224863098:+62 812-2486-3098\nEND:VCARD",
+            "contextInfo": {
+              "stanzaId": "390FB4E39649575C231C9FE029BC4A0C",
+              "participant": "6281224863098@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": "/owner"
+                }
+              },
+              "remoteJid": "6283175385188-1589889287@g.us"
+            }
+          }
+        },
+        "messageTimestamp": "1664641385",
+        "status": "PENDING",
+        "participant": "6283119680420:3@s.whatsapp.net",
+        "userReceipt": [
+          {
+            "userJid": "6281224863098@s.whatsapp.net",
+            "readTimestamp": "1664641386"
+          },
+          {
+            "userJid": "6283801192534@s.whatsapp.net",
+            "readTimestamp": "1664641393"
+          },
+          {
+            "userJid": "6281351492331@s.whatsapp.net",
+            "receiptTimestamp": "1664641398"
+          },
+          {
+            "userJid": "6281215113248@s.whatsapp.net",
+            "receiptTimestamp": "1664641404"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6283175385188-1589889287@g.us",
+          "fromMe": false,
+          "id": "F16BD0BA68C0AD9B68ADD272D8052B91",
+          "participant": "6281224863098@s.whatsapp.net"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "/ping"
+          }
+        },
+        "messageTimestamp": "1664641389",
+        "status": "PENDING",
+        "participant": "6281224863098@s.whatsapp.net",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6283175385188-1589889287@g.us",
+          "fromMe": true,
+          "id": "BAE5315F2A0CD0BD"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "_Testing speed..._",
+            "contextInfo": {
+              "stanzaId": "F16BD0BA68C0AD9B68ADD272D8052B91",
+              "participant": "6281224863098@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": "/ping"
+                }
+              },
+              "remoteJid": "6283175385188-1589889287@g.us"
+            }
+          }
+        },
+        "messageTimestamp": "1664641389",
+        "status": "PENDING",
+        "participant": "6283119680420:3@s.whatsapp.net",
+        "userReceipt": [
+          {
+            "userJid": "6281224863098@s.whatsapp.net",
+            "readTimestamp": "1664641390"
+          },
+          {
+            "userJid": "6283801192534@s.whatsapp.net",
+            "readTimestamp": "1664641393"
+          },
+          {
+            "userJid": "6281351492331@s.whatsapp.net",
+            "receiptTimestamp": "1664641398"
+          },
+          {
+            "userJid": "6281215113248@s.whatsapp.net",
+            "receiptTimestamp": "1664641409"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6283175385188-1589889287@g.us",
+          "fromMe": true,
+          "id": "BAE516E1D4AC0750"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Merespon dalam 383.213499000296 millidetik\n\n💬 Status :\n- *1* Group Chats\n- *1* Groups Joined\n- *0* Groups Left\n- *2* Personal Chats\n- *3* Total Chats\n\n💻 *Server Info* :\nRAM: 21.97 GB / 62.8 GB\n\n_NodeJS Memory Usage_\n```rss         : 167.19 MB\nheapTotal   : 93.29 MB\nheapUsed    : 82.31 MB\nexternal    : 30.6 MB\narrayBuffers: 18.94 MB```\n\n_Total CPU Usage_\nAMD EPYC 7B12 (2249 MHZ)\n- *user* : 39.54%\n- *nice* : 0.12%\n- *sys*  : 15.90%\n- *idle* : 44.44%\n- *irq*  : 0.00%\n\n_CPU Core(s) Usage (8 Core CPU)_\n1. AMD EPYC 7B12 (2249 MHZ)\n- *user* : 40.70%\n- *nice* : 0.01%\n- *sys*  : 14.68%\n- *idle* : 44.61%\n- *irq*  : 0.00%\n\n2. AMD EPYC 7B12 (2249 MHZ)\n- *user* : 41.01%\n- *nice* : 0.00%\n- *sys*  : 14.66%\n- *idle* : 44.32%\n- *irq*  : 0.00%\n\n3. AMD EPYC 7B12 (2249 MHZ)\n- *user* : 40.54%\n- *nice* : 0.16%\n- *sys*  : 15.73%\n- *idle* : 43.58%\n- *irq*  : 0.00%\n\n4. AMD EPYC 7B12 (2249 MHZ)\n- *user* : 41.12%\n- *nice* : 0.12%\n- *sys*  : 15.57%\n- *idle* : 43.19%\n- *irq*  : 0.00%\n\n5. AMD EPYC 7B12 (2249 MHZ)\n- *user* : 36.97%\n- *nice* : 0.18%\n- *sys*  : 17.43%\n- *idle* : 45.41%\n- *irq*  : 0.00%\n\n6. AMD EPYC 7B12 (2249 MHZ)\n- *user* : 36.88%\n- *nice* : 0.24%\n- *sys*  : 17.23%\n- *idle* : 45.65%\n- *irq*  : 0.00%\n\n7. AMD EPYC 7B12 (2249 MHZ)\n- *user* : 40.41%\n- *nice* : 0.14%\n- *sys*  : 15.68%\n- *idle* : 43.78%\n- *irq*  : 0.00%\n\n8. AMD EPYC 7B12 (2249 MHZ)\n- *user* : 38.59%\n- *nice* : 0.11%\n- *sys*  : 16.26%\n- *idle* : 45.04%\n- *irq*  : 0.00%",
+            "contextInfo": {
+              "stanzaId": "F16BD0BA68C0AD9B68ADD272D8052B91",
+              "participant": "6281224863098@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": "/ping"
+                }
+              },
+              "remoteJid": "6283175385188-1589889287@g.us"
+            }
+          }
+        },
+        "messageTimestamp": "1664641390",
+        "status": "PENDING",
+        "participant": "6283119680420:3@s.whatsapp.net",
+        "userReceipt": [
+          {
+            "userJid": "6281224863098@s.whatsapp.net",
+            "readTimestamp": "1664641391"
+          },
+          {
+            "userJid": "6283801192534@s.whatsapp.net",
+            "readTimestamp": "1664641393"
+          },
+          {
+            "userJid": "6281215113248@s.whatsapp.net",
+            "receiptTimestamp": "1664641409"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6283175385188-1589889287@g.us",
+          "fromMe": true,
+          "id": "BAE5E677FA048D65"
+        },
+        "message": {
+          "protocolMessage": {
+            "key": {
+              "remoteJid": "6283175385188-1589889287@g.us",
+              "fromMe": true,
+              "id": "BAE5C9D230B0910D",
+              "participant": "6283119680420@s.whatsapp.net"
+            },
+            "type": "REVOKE"
+          }
+        },
+        "messageTimestamp": "1664641407",
+        "status": "PENDING",
+        "participant": "6283119680420:3@s.whatsapp.net",
+        "userReceipt": [
+          {
+            "userJid": "62895401945742@s.whatsapp.net",
+            "receiptTimestamp": "1664641413"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6283175385188-1589889287@g.us",
+          "fromMe": false,
+          "id": "687C31C885709C8227704D5EEA6EBAD4",
+          "participant": "6283801192534@s.whatsapp.net"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "pasrah bener",
+            "previewType": "NONE",
+            "contextInfo": {
+              "stanzaId": "BAE5BE5A497DA2AE",
+              "participant": "6283119680420@s.whatsapp.net",
+              "quotedMessage": {
+                "conversation": "╭─「 Donasi 」\n│ Gada yang bakal donasi gw kosongin aja\n╰────"
+              }
+            },
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1664641409",
+        "pushName": "Elsa"
+      }
+    ],
+    "6287770560982@s.whatsapp.net": [
+      {
+        "key": {
+          "remoteJid": "6287770560982@s.whatsapp.net",
+          "fromMe": false,
+          "id": "BF8F0C6EF63F3E9519EBB7FE652A3F7A"
+        },
+        "message": {
+          "conversation": "Uy"
+        },
+        "messageTimestamp": "1664641599",
+        "pushName": "JULI"
+      },
+      {
+        "key": {
+          "remoteJid": "6287770560982@s.whatsapp.net",
+          "fromMe": false,
+          "id": "014624AA1E7AF90BC9229C5B545251DC"
+        },
+        "message": {
+          "conversation": "Assalamualaikum"
+        },
+        "messageTimestamp": "1664641724",
+        "pushName": "JULI"
+      },
+      {
+        "key": {
+          "remoteJid": "6287770560982@s.whatsapp.net",
+          "fromMe": false,
+          "id": "02B84E0D456CC6614FD29023455AF821"
+        },
+        "message": {
+          "conversation": "Hello"
+        },
+        "messageTimestamp": "1664641732",
+        "pushName": "JULI"
+      }
+    ]
+  }
+}
