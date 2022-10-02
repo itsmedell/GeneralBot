@@ -8,13 +8,13 @@
     },
     "6281224863098@s.whatsapp.net": {
       "id": "6281224863098@s.whatsapp.net",
-      "conversationTimestamp": 1664641803,
+      "conversationTimestamp": 1664672237,
       "presences": {
         "6281224863098@s.whatsapp.net": {
           "lastKnownPresence": "composing"
         }
       },
-      "unreadCount": 36,
+      "unreadCount": 37,
       "notify": "Dellas",
       "isContact": true
     },
@@ -1262,6 +1262,171 @@
           }
         },
         "messageTimestamp": "1664640876",
+        "status": "SERVER_ACK",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6283119680420@s.whatsapp.net",
+          "fromMe": true,
+          "id": "B347635C39235A6EEDD1E67EFEC7ACAB"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "INITIAL_SECURITY_NOTIFICATION_SETTING_SYNC",
+            "initialSecurityNotificationSettingSync": {
+              "securityNotificationEnabled": false
+            }
+          }
+        },
+        "messageTimestamp": "1664672224",
+        "status": "SERVER_ACK",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6283119680420@s.whatsapp.net",
+          "fromMe": true,
+          "id": "CF6F980B90429F7C76D5862916E9BE4B"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "APP_STATE_SYNC_KEY_SHARE",
+            "appStateSyncKeyShare": {
+              "keys": [
+                {
+                  "keyId": {
+                    "keyId": "AAAAALSx"
+                  },
+                  "keyData": {
+                    "keyData": "c+Jo1zU6RAqSJfvK88NsA++hekcnlPm4/phUhH8kmqU=",
+                    "fingerprint": {
+                      "rawId": 1609284900,
+                      "currentIndex": 4,
+                      "deviceIndexes": [
+                        0,
+                        1,
+                        3
+                      ]
+                    },
+                    "timestamp": "1664672210343"
+                  }
+                },
+                {
+                  "keyId": {
+                    "keyId": "AAAAALSw"
+                  },
+                  "keyData": {
+                    "keyData": "ZlOOFScf7NXLsYdQKcEAy0OwrCN+oT7FBh1c/fdVlNY=",
+                    "fingerprint": {
+                      "rawId": 1609284900,
+                      "currentIndex": 1,
+                      "deviceIndexes": [
+                        0,
+                        1
+                      ]
+                    },
+                    "timestamp": "1664577102064"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "messageTimestamp": "1664672224",
+        "status": "SERVER_ACK",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6283119680420@s.whatsapp.net",
+          "fromMe": true,
+          "id": "38F393EB45C4701F0B7C579339E4153A"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "ZTsBaM4+OFjOJcgCfvUVc53vE1cSal+EU7h0kE17pa8=",
+              "fileLength": "26313",
+              "mediaKey": "JjztUGw+yB2n0grFvTuzlITS7DmdKfOVP1TLKnLI+Ms=",
+              "fileEncSha256": "OOG09XzA0MOfCFPRtGmiXBno/yKWG5knKtdgy0qG/wY=",
+              "directPath": "/v/t62.31111-24/32428377_195798489499841_4814596058814131090_n.enc?ccb=11-4&oh=01_AVwg9x7LO7Bh1YEaUiLV61wJx77y73XWaVhlfHxD4mG0tg&oe=635DED3C",
+              "syncType": "INITIAL_STATUS_V3"
+            }
+          }
+        },
+        "messageTimestamp": "1664672226",
+        "status": "SERVER_ACK",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6283119680420@s.whatsapp.net",
+          "fromMe": true,
+          "id": "6544BC40EB6A1EC636B820427A50545F"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "Xn+PHnBWz4gWhkcpYxzxefeZhgaB1hfJxg1jvK01tSs=",
+              "fileLength": "406",
+              "mediaKey": "yLlXRE4dNc0JR1O54ZlZ/UdqTk5Q4tKM9DOlgkv488o=",
+              "fileEncSha256": "0ShrcHMYucgf9f8ryTIsGfYiHVgARR1pnVWsrs+K00E=",
+              "directPath": "/v/t62.31111-24/29537802_196120396209859_6607041582602464001_n.enc?ccb=11-4&oh=01_AVzN9Z2CL2sZ0qpOtwIOZiarBM8CmjZBLrD0iKRnoL35NA&oe=635DA063",
+              "syncType": "NON_BLOCKING_DATA"
+            }
+          }
+        },
+        "messageTimestamp": "1664672226",
+        "status": "SERVER_ACK",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6283119680420@s.whatsapp.net",
+          "fromMe": true,
+          "id": "39F46E0EAF4BAF8995BFF46DBBF36D49"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "DtL/SXOsWdFkXzsgjfhbCd9/ow66Uzen6LFAHb0E1Ro=",
+              "fileLength": "3608",
+              "mediaKey": "Cy3UhlUNIzRoEpsakO9NiRGSb3kbQcp866wRY/VKcV8=",
+              "fileEncSha256": "e4jqUctb+e956nkUG8hSTmUvdHAZe/mwSBXHJKbAqds=",
+              "directPath": "/v/t62.31111-24/40917285_116457347746677_6931252059036219678_n.enc?ccb=11-4&oh=01_AVzGktUXW_ztSfvYMQuNU0R2bwHmAvicLqM9_SNRIgmghQ&oe=635D76E1",
+              "syncType": "PUSH_NAME",
+              "chunkOrder": 1
+            }
+          }
+        },
+        "messageTimestamp": "1664672226",
+        "status": "SERVER_ACK",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6283119680420@s.whatsapp.net",
+          "fromMe": true,
+          "id": "C399CE7CF15FE361AFAD76CC9016105B"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "DCN4Y30TKFBZBQCao9g1Gq/Kb+bHnZlqdifj5riCl5I=",
+              "fileLength": "48443",
+              "mediaKey": "N2tDc8c6kkzFNZIpub+sM4Y1/afV+Pa5WT7LXz3lVdc=",
+              "fileEncSha256": "sBCpHqCNkHj4y0btwK49aFaXMnwsQofEEZx8o53RHW0=",
+              "directPath": "/v/t62.31111-24/34836435_658328595564746_8269480679445789639_n.enc?ccb=11-4&oh=01_AVyKOntAWU6ss7c9pE9HB6K1h4QyT_JPeI1b92d9Tk6m8A&oe=635F9F11",
+              "syncType": "INITIAL_BOOTSTRAP"
+            }
+          }
+        },
+        "messageTimestamp": "1664672226",
         "status": "SERVER_ACK",
         "pushName": "Dellas"
       }
@@ -4157,6 +4322,74 @@
           }
         },
         "messageTimestamp": "1664641803",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE53075099E9F2D"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Successfully connected"
+          }
+        },
+        "messageTimestamp": "1664672224",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": false,
+          "id": "1EE653A69728FA1F57A8900D529A90B7"
+        },
+        "message": {
+          "conversation": ".ping"
+        },
+        "messageTimestamp": "1664672237",
+        "pushName": "Dellas"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE52727CA8FCAD0"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "_Testing speed..._",
+            "contextInfo": {
+              "stanzaId": "1EE653A69728FA1F57A8900D529A90B7",
+              "participant": "6281224863098@s.whatsapp.net",
+              "quotedMessage": {
+                "conversation": ".ping"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1664672237",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281224863098@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5FFDDD14954C5"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Merespon dalam 111.37695799767971 millidetik\n\n💬 Status :\n- *0* Group Chats\n- *0* Groups Joined\n- *0* Groups Left\n- *1* Personal Chats\n- *1* Total Chats\n\n💻 *Server Info* :\nRAM: 40.08 GB / 62.8 GB\n\n_NodeJS Memory Usage_\n```rss         : 156.88 MB\nheapTotal   : 81.15 MB\nheapUsed    : 73.42 MB\nexternal    : 30.36 MB\narrayBuffers: 18.35 MB```\n\n_Total CPU Usage_\nAMD EPYC 7B12 (2250 MHZ)\n- *user* : 53.15%\n- *nice* : 0.19%\n- *sys*  : 19.51%\n- *idle* : 27.16%\n- *irq*  : 0.00%\n\n_CPU Core(s) Usage (8 Core CPU)_\n1. AMD EPYC 7B12 (2250 MHZ)\n- *user* : 56.76%\n- *nice* : 0.00%\n- *sys*  : 17.26%\n- *idle* : 25.99%\n- *irq*  : 0.00%\n\n2. AMD EPYC 7B12 (2250 MHZ)\n- *user* : 57.59%\n- *nice* : 0.00%\n- *sys*  : 16.99%\n- *idle* : 25.42%\n- *irq*  : 0.00%\n\n3. AMD EPYC 7B12 (2250 MHZ)\n- *user* : 53.37%\n- *nice* : 0.23%\n- *sys*  : 19.70%\n- *idle* : 26.70%\n- *irq*  : 0.00%\n\n4. AMD EPYC 7B12 (2250 MHZ)\n- *user* : 53.62%\n- *nice* : 0.22%\n- *sys*  : 19.57%\n- *idle* : 26.58%\n- *irq*  : 0.00%\n\n5. AMD EPYC 7B12 (2250 MHZ)\n- *user* : 49.87%\n- *nice* : 0.31%\n- *sys*  : 21.25%\n- *idle* : 28.57%\n- *irq*  : 0.00%\n\n6. AMD EPYC 7B12 (2250 MHZ)\n- *user* : 49.75%\n- *nice* : 0.31%\n- *sys*  : 21.27%\n- *idle* : 28.67%\n- *irq*  : 0.00%\n\n7. AMD EPYC 7B12 (2250 MHZ)\n- *user* : 52.28%\n- *nice* : 0.22%\n- *sys*  : 20.02%\n- *idle* : 27.48%\n- *irq*  : 0.00%\n\n8. AMD EPYC 7B12 (2250 MHZ)\n- *user* : 51.79%\n- *nice* : 0.20%\n- *sys*  : 20.10%\n- *idle* : 27.91%\n- *irq*  : 0.00%",
+            "contextInfo": {
+              "stanzaId": "1EE653A69728FA1F57A8900D529A90B7",
+              "participant": "6281224863098@s.whatsapp.net",
+              "quotedMessage": {
+                "conversation": ".ping"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1664672237",
         "status": "READ"
       }
     ],
