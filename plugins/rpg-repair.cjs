@@ -280,15 +280,15 @@ var handler = async (m, {
 					})
 			}
 
-			console.log(e)
+			console.log(err)
 			if (DevMode) {
 				for (var jid of global.owner.map(v => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net').filter(v => v != conn.user.jid)) {
 					conn.sendMessage(jid, 'shop.js error\nNo: *' + m.sender.split`@` [0] + '*\nCommand: *' + m.text + '*\n\n*' + e + '*', MessageType.text)
 				}
 			}
 		}
-	} catch (e) {
-		throw e
+	} catch (err) {
+		throw err
 	}
 }
 handler.help = ['repair', 'upgrade']
