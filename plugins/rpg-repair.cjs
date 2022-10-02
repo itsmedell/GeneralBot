@@ -1,4 +1,5 @@
 var handler = async (m, {
+        conn,
 	command,
 	usedPrefix,
 	args
@@ -280,15 +281,15 @@ var handler = async (m, {
 					})
 			}
 
-			console.log(err)
+			console.log(e)
 			if (DevMode) {
 				for (var jid of global.owner.map(v => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net').filter(v => v != conn.user.jid)) {
 					conn.sendMessage(jid, 'shop.js error\nNo: *' + m.sender.split`@` [0] + '*\nCommand: *' + m.text + '*\n\n*' + e + '*', MessageType.text)
 				}
 			}
 		}
-	} catch (err) {
-		throw err
+	} catch (e) {
+		throw conn.reply(conn.user.jid, await e, m)
 	}
 }
 handler.help = ['repair', 'upgrade']
