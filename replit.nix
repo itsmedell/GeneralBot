@@ -1,5 +1,6 @@
 { pkgs }: {
     deps = [
+        pkgs.imagemagick
         pkgs.yarn
         pkgs.nodejs-16_x
         pkgs.arcan.ffmpeg
