@@ -374,7 +374,7 @@ var handler = async (m, {
 		}
 		text = await tiny(text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name]))
 		var pp = await conn.profilePictureUrl(conn.user.jid, 'image').catch(_ => './src/avatar_contact.png')
-		conn.sendHydrated(m.chat, text.trim(), wm, pp, 'https://github.com/botstylee', 'Github', null, null, [
+		conn.sendHydrated(m.chat, text.trim(), wm, pp, 'https://github.com/itsmedell', 'Github', null, null, [
 			['Donate', '/donasi'],
 			['Speed', '/ping'],
 			['Owner', '/owner']
