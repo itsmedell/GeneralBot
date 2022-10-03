@@ -12,7 +12,7 @@ var handler = async (m, {
 	conn.sendFile(m.chat, json.getRandom(), 'pinterest.jpg', `
 *Hasil pencarian*
 ${text}
-© BOTSTYLEE
+© CloudBot
 `.trim(), m)
 }
 handler.help = ['pinterest <keyword>']
