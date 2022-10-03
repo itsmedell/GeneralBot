@@ -18,12 +18,12 @@ var handler = async (m, {
 		contextInfo: {
 			externalAdReply: {
 				mediaType: 2,
-				description: 'BOTSTYLEE',
+				description: 'CloudBot',
 				title: bottime,
-				mediaUrl: 'https://youtube.com/channel/UCrNO1yUYW0i3xsJp4NGBh4Q', 
+				mediaUrl: 'https://instagram.com/lord_lightness', 
 				body: '𓃗𓅜',
 				thumbnail: profil,
-				sourceUrl: 'https://chat.whatsapp.com/KihEAYjKr04LI4uUrbiiip',
+				sourceUrl: 'https://chat.whatsapp.com/I8kKwA3O30a4McuxczI4or',
 				showAdAttribution: true, // false
 				//renderLargerThumbnail: true // false
 			}
